@@ -4,7 +4,7 @@ const svg = d3.select("#scene1-vis")
   .attr("width", 1200)
   .attr("height", 400);
 
-const margin = { top: 40, right: 400, bottom: 40, left: 40 };
+const margin = { top: 40, right: 40, bottom: 40, left: 200 };
 const width = 1200 - margin.left - margin.right;
 const height = 400 - margin.top - margin.bottom;
 
