@@ -1,4 +1,3 @@
-
 const svg = d3.select("#vis")
   .append("svg")
   .attr("width", 500)
