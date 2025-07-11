@@ -1,11 +1,11 @@
 // SVG setting
 const svg = d3.select("#scene1-vis")
   .append("svg")
-  .attr("width", 800)
+  .attr("width", 1200)
   .attr("height", 400);
 
-const margin = { top: 40, right: 120, bottom: 40, left: 40 };
-const width = 800 - margin.left - margin.right;
+const margin = { top: 40, right: 400, bottom: 40, left: 40 };
+const width = 1200 - margin.left - margin.right;
 const height = 400 - margin.top - margin.bottom;
 
 const chart = svg.append("g")
