@@ -20,7 +20,7 @@ d3.csv("Scene1.csv").then(data => {
 
   // x axis: Horsepower
   const x = d3.scaleLinear()
-    .domain(d3.extent(data, d => d.horsepower))
+    .domain([0, 150])
     .range([0, width]);
 
   chart.append("g")
@@ -35,7 +35,7 @@ d3.csv("Scene1.csv").then(data => {
 
   // y axis: MPG
   const y = d3.scaleLinear()
-    .domain(d3.extent(data, d => d.mpg))
+    .domain([0, 150])
     .range([height, 0]);
 
   chart.append("g")
@@ -78,8 +78,8 @@ d3.csv("Scene1.csv").then(data => {
     })
     .on("mousemove", event => {
       tooltip
-    .style("top", (event.clientY + 10) + "px")
-    .style("left", (event.clientX + 10) + "px");
+    .style("top", (event.clientY + 4) + "px")
+    .style("left", (event.clientX + 4) + "px");
     })
     .on("mouseout", () => {
       tooltip.style("visibility", "hidden");
