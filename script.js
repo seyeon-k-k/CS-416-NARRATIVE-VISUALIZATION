@@ -78,8 +78,8 @@ d3.csv("Scene1.csv").then(data => {
     })
     .on("mousemove", event => {
       tooltip
-    .style("top", (event.clientY + 4) + "px")
-    .style("left", (event.clientX + 4) + "px");
+    .style("top", (event.pageY + 8) + "px")
+    .style("left", (event.pageX + 8) + "px");
     })
     .on("mouseout", () => {
       tooltip.style("visibility", "hidden");
