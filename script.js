@@ -1,5 +1,5 @@
 // SVG setting
-const svg = d3.select("#vis")
+const svg = d3.select("#scene1")
   .append("svg")
   .attr("width", 500)
   .attr("height", 300);
