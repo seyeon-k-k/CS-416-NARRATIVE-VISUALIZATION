@@ -1,12 +1,12 @@
 // SVG setting
 const svg = d3.select("#scene1-vis")
   .append("svg")
-  .attr("width", 1000)
-  .attr("height", 400);
+  .attr("width", 600)
+  .attr("height", 600);
 
 const margin = { top: 40, right: 40, bottom: 60, left: 60 };
-const width = 1000 - margin.left - margin.right;
-const height = 400 - margin.top - margin.bottom;
+const width = 600 - margin.left - margin.right;
+const height = 600 - margin.top - margin.bottom;
 
 const chart = svg.append("g")
   .attr("transform", `translate(${margin.left}, ${margin.top})`);
