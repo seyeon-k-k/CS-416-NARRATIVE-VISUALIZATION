@@ -20,15 +20,14 @@ d3.csv("Scene1.csv").then(data => {
   });
 
   const colorMap = {
-    "EV": "#1f77b4",
-    "FCV": "#9467bd",
-    "Hybrid": "#2ca02c",
-    "Plug-in Hybrid": "#ff7f0e",
-    "Gas": "#d62728"
+  "EV": "#1f77b4",        // 파란색
+  "FCV": "#9467bd",       // 연보라색
+  "Hybrid": "#ffdd00",    // 노란색
+  "Plug-in Hybrid": "#ff7f0e" // 주황색
   };
 
   const getColor = (type) => {
-    if (!type) return "#7f7f7f"; // 기본 회색
+    if (!type) return "#d62728"; // 기본 회색
     return colorMap[type] || "#7f7f7f";
   };
 
