@@ -16,11 +16,25 @@ d3.csv("Scene1.csv").then(data => {
   data.forEach(d => {
     d.mpg = +d.comb08;
     d.horsepower = +d.hpv;
+    d.type = d.atvType;
   });
+
+  const colorMap = {
+    "EV": "#1f77b4",
+    "FCV": "#9467bd",
+    "Hybrid": "#2ca02c",
+    "Plug-in Hybrid": "#ff7f0e",
+    "Gas": "#d62728"
+  };
+
+  const getColor = (type) => {
+    if (!type) return "#7f7f7f"; // 기본 회색
+    return colorMap[type.toUpperCase()] || "#7f7f7f";
+  };
 
   // x axis: Horsepower
   const x = d3.scaleLinear()
-    .domain([0, 150])
+    .domain(d3.extent(data, d => d.horsepower))
     .range([0, width]);
 
   chart.append("g")
@@ -35,7 +49,7 @@ d3.csv("Scene1.csv").then(data => {
 
   // y axis: MPG
   const y = d3.scaleLinear()
-    .domain([0, 150])
+    .domain(d3.extent(data, d => d.mpg))
     .range([height, 0]);
 
   chart.append("g")
@@ -56,7 +70,7 @@ d3.csv("Scene1.csv").then(data => {
     .attr("cx", d => x(d.horsepower))
     .attr("cy", d => y(d.mpg))
     .attr("r", 4)
-    .attr("fill", "#1f77b4")
+    .attr("fill", d => getColor(d.type))
     .attr("opacity", 0.7);
 
   // Tooltip
