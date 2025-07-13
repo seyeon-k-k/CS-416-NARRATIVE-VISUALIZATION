@@ -1,0 +1,83 @@
+comb08,combE,hpv,make,model,atvType
+32,0,80,MINI,Cooper Hardtop 2 door,
+31,0,80,MINI,Cooper Hardtop 2 door,
+32,0,84,MINI,Cooper Hardtop 4 door,
+31,0,84,MINI,Cooper Hardtop 4 door,
+31,0,80,MINI,Cooper S Hardtop 2 door,
+27,0,80,MINI,Cooper S Hardtop 2 door,
+31,0,84,MINI,Cooper S Hardtop 4 door,
+27,0,84,MINI,Cooper S Hardtop 4 door,
+29,0,80,MINI,John Cooper Works Hardtop 2 door,
+26,0,80,MINI,John Cooper Works Hardtop 2 door,
+28,0,97,MINI,Cooper Countryman,
+26,0,97,MINI,Cooper Countryman All4,
+26,0,92,MINI,John Cooper Works Clubman All4,
+26,0,97,MINI,JCW Countryman All4,
+42,0,90,Lexus,UX 250h,Hybrid
+39,0,90,Lexus,UX 250h AWD,Hybrid
+29,0,92,MINI,Cooper S Clubman,
+25,0,92,MINI,Cooper S Clubman,
+28,0,97,MINI,Cooper S Countryman,
+26,0,97,MINI,Cooper S Countryman All4,
+27,0,92,MINI,Cooper S Clubman All4,
+30,0,91,Audi,A5 Sportback quattro,Hybrid
+20,0,91,Audi,RS 5 Sportback,
+39,0,86,Mitsubishi,Mirage,
+27,0,93,Volkswagen,GTI,
+27,0,93,Volkswagen,GTI,
+30,0,93,Mazda,3 5-Door 2WD,
+30,0,93,Mazda,3 5-Door 2WD,
+29,0,93,Mazda,3 5-Door 4WD,
+26,0,93,Mazda,3 5-Door 4WD,
+110,30.714,80,MINI,Cooper SE Hardtop 2 door,EV
+111,30.4264,92,Nissan,LEAF,EV
+109,30.7824,92,Nissan,LEAF SV,EV
+106,31.7153,89,Polestar,2 Dual Motor (19 Inch Wheels),EV
+102,33,89,Polestar,2 Dual Motor (20 Inch Wheels),EV
+95,35,89,Polestar,2 Dual Motor Performance Pack,EV
+115,29.2238,89,Polestar,2 Single Motor (19 Inch Wheels),EV
+111,30,89,Polestar,2 Single Motor (20 Inch Wheels),EV
+25,0,93,Volkswagen,Golf R,
+23,0,93,Volkswagen,Golf R,
+27,0,91,Audi,A5 Sportback S line quattro,Hybrid
+23,0,91,Audi,S5 Sportback,
+25,0,95,Audi,A7 quattro,Hybrid
+17,0,95,Audi,RS 7,Hybrid
+22,0,94,Audi,S7,Hybrid
+35,0,99,Honda,Civic 5Dr,
+33,0,99,Honda,Civic 5Dr,
+31,0,99,Honda,Civic 5Dr,
+33,0,99,Honda,Civic 5Dr,
+32,0,99,Honda,Civic 5Dr,
+29,0,99,Honda,Civic 5Dr,
+24,0,67,Toyota,GR Corolla,
+33,0,93,Nissan,Kicks,
+57,0,91,Toyota,Prius,Hybrid
+54,0,91,Toyota,Prius AWD,Hybrid
+49,0,91,Toyota,Prius AWD XLE/LTD,Hybrid
+52,0,91,Toyota,Prius XLE/LTD,Hybrid
+12,0,97,Ferrari,Purosangue,
+35,0,85,Toyota,Corolla Hatchback,
+33,0,85,Toyota,Corolla Hatchback XSE,
+80,42.0951,90,Porsche,Taycan GTS Sport Turismo,EV
+80,42.0106,90,Porsche,Taycan 4 Cross Turismo,EV
+79,43,92,Porsche,Taycan Turbo Cross Turismo,EV
+75,44.5214,93,Porsche,Taycan Turbo S Cross Turismo,EV
+48,29,91,Toyota,Prius Prime,Plug-in Hybrid
+52,26,91,Toyota,Prius Prime SE,Plug-in Hybrid
+24,0,99,Honda,Civic 5Dr,
+21,0,98,Porsche,Panamera 4,
+116,29.1808,72,Fiat,500e,EV
+110,30.5327,72,Fiat,500e All Season,EV
+78,42.7868,91,Porsche,Taycan 4S Cross Turismo,EV
+122,27.7036,94,Tesla,Model S,EV
+107,31.4651,94,Tesla,Model S Plaid (19in wheels),EV
+96,35.2387,94,Tesla,Model S Plaid (21in wheels),EV
+21,0,98,Porsche,Panamera,
+87,39,104,Dodge,Charger 2-Dr Daytona R/T AWD 18in,EV
+85,40,104,Dodge,Charger 2-Dr Daytona R/T AWD 20in Goodyear,EV
+98,34.5239,104,Dodge,Charger 2-Dr Daytona R/T AWD 20in Nexen,EV
+70,48,104,Dodge,Charger 2-Dr Daytona Scat Pack Track Pack AWD,EV
+78,43.3733,104,Dodge,Charger 2-Dr Daytona Scat Pack Track Pack AWD A/S,EV
+57,56,101,Hyundai,Nexo,FCV
+61,60,101,Hyundai,Nexo Blue,FCV
