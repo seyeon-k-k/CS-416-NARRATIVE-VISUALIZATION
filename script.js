@@ -1,7 +1,7 @@
 // SVG setting
 const svg = d3.select("#scene1-vis")
   .append("svg")
-  .attr("width", 480)
+  .attr("width", 680)  // 너비 증가: 레전드 공간 확보
   .attr("height", 480);
 
 const margin = { top: 40, right: 40, bottom: 60, left: 60 };
@@ -27,7 +27,7 @@ d3.csv("Scene1.csv").then(data => {
   };
 
   const getColor = (type) => {
-    if (!type) return "#d62728"; // 기본 회색
+    if (!type) return "#d62728";
     return colorMap[type] || "#7f7f7f";
   };
 
@@ -97,4 +97,25 @@ d3.csv("Scene1.csv").then(data => {
     .on("mouseout", () => {
       tooltip.style("visibility", "hidden");
     });
+
+    const legendData = Object.entries(colorMap);
+  const legend = svg.append("g")
+    .attr("transform", `translate(${width + margin.left + 20}, ${margin.top})`);
+
+  legendData.forEach(([type, color], i) => {
+    const row = legend.append("g")
+      .attr("transform", `translate(0, ${i * 20})`);
+
+    row.append("rect")
+      .attr("width", 12)
+      .attr("height", 12)
+      .attr("fill", color)
+      .attr("stroke", "#000");
+
+    row.append("text")
+      .attr("x", 18)
+      .attr("y", 10)
+      .attr("font-size", "12px")
+      .text(type);
+  });
 });
