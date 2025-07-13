@@ -29,7 +29,7 @@ d3.csv("Scene1.csv").then(data => {
 
   const getColor = (type) => {
     if (!type) return "#7f7f7f"; // 기본 회색
-    return colorMap[type.toUpperCase()] || "#7f7f7f";
+    return colorMap[type] || "#7f7f7f";
   };
 
   // x axis: Horsepower
