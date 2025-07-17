@@ -17,7 +17,9 @@ d3.csv("Scene1.csv").then(data => {
     d.mpg = +d.comb08;
     d.horsepower = +d.hpv;
     d.type = d.atvType;
-  });
+  });  
+
+  console.log("Parsed data:", data.slice(0, 5));
 
   const colorMap = {
   "EV": "#1f77b4",        // 파란색
