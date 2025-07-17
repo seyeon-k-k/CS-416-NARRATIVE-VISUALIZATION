@@ -13,6 +13,12 @@ body {
   border-bottom: 2px solid #ccc;
 }
 
+#scene1-vis, #scene2-vis {
+  width: 1400px;      /* 원하는 너비 설정 */
+  height: 1400px;     /* 높이 꼭 지정 */
+  border: 1px solid #ccc;  /* 시각적으로 영역 확인용 */
+}
+
 .scene {
   margin-bottom: 50px;
 }
