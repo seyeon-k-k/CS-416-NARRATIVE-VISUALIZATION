@@ -103,3 +103,4 @@ chart.selectAll("circle")
   .on("mouseout", () => {
     tooltip.style("visibility", "hidden");
   });
+});
