@@ -5,12 +5,12 @@ const svg2 = d3.select("#scene2-vis")
   .attr("width", 680)  // 너비 증가: 레전드 공간 확보
   .attr("height", 480);
 
-const margin = { top: 40, right: 40, bottom: 60, left: 60 };
-const width = 480 - margin.left - margin.right;
-const height = 480 - margin.top - margin.bottom;
+const margin2 = { top: 40, right: 40, bottom: 60, left: 60 };
+const width2 = 480 - margin2.left - margin2.right;
+const height2 = 480 - margin2.top - margin2.bottom;
 
-const chart = svg2.append("g")
-  .attr("transform", `translate(${margin.left}, ${margin.top})`);
+const chart2 = svg2.append("g")
+  .attr("transform", `translate(${margin2.left}, ${margin2.top})`);
 
 // CSV file processing
 d3.csv("Scene2.csv").then(data => {
@@ -41,34 +41,34 @@ d3.csv("Scene2.csv").then(data => {
   const x2 = d3.scaleLinear()
     .domain(d3.extent(data, d => d.mpg))
     .nice()
-    .range([0, width]);
+    .range([0, width2]);
   
-  chart.append("g")
-    .attr("transform", `translate(0, ${height})`)
+  chart2.append("g")
+    .attr("transform", `translate(0, ${height2})`)
     .call(d3.axisBottom(x2));
 
-  chart.append("text")
-    .attr("x", width / 2)
-    .attr("y", height + 40)
+  chart2.append("text")
+    .attr("x", width2 / 2)
+    .attr("y", height2 + 40)
     .attr("text-anchor", "middle")
     .text("MPG or MPGe");
 
   const y2 = d3.scaleLinear()
     .domain(d3.extent(data, d => d.save))
     .nice()
-    .range([height, 0]);
+    .range([height2, 0]);
 
-  chart.append("g")
+  chart2.append("g")
     .call(d3.axisLeft(y2));
 
-  chart.append("text")
+  chart2.append("text")
     .attr("transform", "rotate(-90)")
-    .attr("x", -height / 2)
+    .attr("x", -height2 / 2)
     .attr("y", -45)
     .attr("text-anchor", "middle")
     .text("5-Year Fuel Savings ($)");
   
-  chart.selectAll("circle")
+  chart2.selectAll("circle")
     .data(data)
     .enter()
     .append("circle")
@@ -88,7 +88,7 @@ d3.csv("Scene2.csv").then(data => {
   .style("visibility", "hidden")
   .style("font-size", "12px");
 
-chart.selectAll("circle")
+chart2.selectAll("circle")
   .on("mouseover", (event, d) => {
     tooltip
       .html(`<strong>${d.make} ${d.model}</strong><br>
