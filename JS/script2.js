@@ -71,6 +71,31 @@ d3.csv("Scene2.csv").then(data => {
     .enter()
     .append("circle")
     .attr("cx", d => x2(d.mpg))
+
+const tooltip = d3.select("body").append("div")
+  .attr("class", "tooltip")
+  .style("position", "absolute")
+  .style("background", "white")
+  .style("padding", "6px")
+  .style("border", "1px solid #ccc")
+  .style("border-radius", "4px")
+  .style("visibility", "hidden")
+  .style("font-size", "12px");
+
+chart.selectAll("circle")
+  .on("mouseover", (event, d) => {
+    tooltip.style("visibility", "visible")
+      .html(`<strong>${d.make} ${d.model}</strong><br>
+            MPG or MPGe: ${d.mpg}<br>
+            5-Year Fuel Savings: $${d.save}`);
+  })
+  .on("mousemove", (event) => {
+    tooltip.style("top", `${event.pageY - 10}px`)
+           .style("left", `${event.pageX + 10}px`);
+  })
+  .on("mouseout", () => {
+    tooltip.style("visibility", "hidden");
+  });
     .attr("cy", d => y2(d.save))
     .attr("r", 5)
     .attr("fill", d => getColor(d.type))
