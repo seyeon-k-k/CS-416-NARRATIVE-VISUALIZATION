@@ -1,0 +1,1278 @@
+comb08,combE,make,model,VClass,year,youSaveSpend,atvType
+18,0,Jaguar,F-Type R AWD Coupe,Two Seaters,2024,-8750,
+18,0,Jaguar,F-Type R AWD Convertible,Two Seaters,2024,-8750,
+19,0,Jaguar,F-Type P450 RWD Coupe,Two Seaters,2024,-7750,
+19,0,Jaguar,F-Type P450 RWD Convertible,Two Seaters,2024,-7750,
+18,0,Jaguar,F-Type P450 AWD R-Dynamic Coupe,Two Seaters,2024,-8750,
+18,0,Jaguar,F-Type P450 AWD R-Dynamic Convertible,Two Seaters,2024,-8750,
+30,0,Chevrolet,Trax,Small Station Wagons,2024,500,
+23,0,Jaguar,E-Pace,Small Sport Utility Vehicle 4WD,2024,-5000,
+22,0,Land Rover,Range Rover Evoque,Small Sport Utility Vehicle 4WD,2024,-5500,
+20,0,Land Rover,Discovery Sport,Small Sport Utility Vehicle 4WD,2024,-7000,
+31,0,Kia,Seltos FWD,Small Sport Utility Vehicle 2WD,2024,750,
+26,0,Kia,Seltos AWD,Small Sport Utility Vehicle 4WD,2024,-750,
+29,0,Kia,Seltos AWD,Small Sport Utility Vehicle 4WD,2024,250,
+32,0,MINI,Cooper Convertible,Minicompact Cars,2024,-1250,
+31,0,MINI,Cooper Convertible,Minicompact Cars,2024,-1500,
+30,0,MINI,Cooper S Convertible,Minicompact Cars,2024,-1750,
+27,0,MINI,Cooper S Convertible,Minicompact Cars,2024,-3000,
+28,0,MINI,John Cooper Works Convertible,Minicompact Cars,2024,-2500,
+28,0,BMW,430i Coupe,Subcompact Cars,2024,-2500,
+27,0,BMW,430i xDrive Coupe,Subcompact Cars,2024,-3000,
+28,0,BMW,430i Convertible,Subcompact Cars,2024,-2500,
+27,0,BMW,430i xDrive Convertible,Subcompact Cars,2024,-3000,
+19,0,BMW,M4 Coupe,Subcompact Cars,2024,-7750,
+19,0,BMW,M4 Competition Coupe,Subcompact Cars,2024,-7750,
+18,0,BMW,M4 Competition M xDrive Coupe,Subcompact Cars,2024,-8750,
+18,0,BMW,M4 Competition M xDrive Convertible,Subcompact Cars,2024,-8750,
+24,0,BMW,840i Coupe,Subcompact Cars,2024,-4500,
+24,0,BMW,840i xDrive Coupe,Subcompact Cars,2024,-4500,
+24,0,BMW,840i Convertible,Subcompact Cars,2024,-4500,
+24,0,BMW,840i xDrive Convertible,Subcompact Cars,2024,-4500,
+19,0,BMW,M850i xDrive Coupe,Subcompact Cars,2024,-7750,
+19,0,BMW,M850i xDrive Convertible,Subcompact Cars,2024,-7750,
+17,0,BMW,M8 Competition Coupe,Subcompact Cars,2024,-9750,
+17,0,BMW,M8 Competition Convertible,Subcompact Cars,2024,-9750,
+32,0,MINI,Cooper Hardtop 2 door,Subcompact Cars,2024,-1250,
+31,0,MINI,Cooper Hardtop 2 door,Subcompact Cars,2024,-1500,
+32,0,MINI,Cooper Hardtop 4 door,Subcompact Cars,2024,-1250,
+31,0,MINI,Cooper Hardtop 4 door,Subcompact Cars,2024,-1500,
+31,0,MINI,Cooper S Hardtop 2 door,Subcompact Cars,2024,-1500,
+27,0,MINI,Cooper S Hardtop 2 door,Subcompact Cars,2024,-3000,
+31,0,MINI,Cooper S Hardtop 4 door,Subcompact Cars,2024,-1500,
+27,0,MINI,Cooper S Hardtop 4 door,Subcompact Cars,2024,-3000,
+29,0,MINI,John Cooper Works Hardtop 2 door,Subcompact Cars,2024,-2250,
+26,0,MINI,John Cooper Works Hardtop 2 door,Subcompact Cars,2024,-3500,
+28,0,BMW,430i Gran Coupe,Compact Cars,2024,-2500,
+27,0,BMW,430i xDrive Gran Coupe,Compact Cars,2024,-3000,
+24,0,BMW,840i Gran Coupe,Midsize Cars,2024,-4500,
+24,0,BMW,840i xDrive Gran Coupe,Midsize Cars,2024,-4500,
+19,0,BMW,M850i xDrive Gran Coupe,Midsize Cars,2024,-7750,
+19,0,BMW,Alpina B8 Gran Coupe,Midsize Cars,2024,-7750,
+17,0,BMW,M8 Competition Gran Coupe,Midsize Cars,2024,-9750,
+28,0,MINI,Cooper Countryman,Midsize Cars,2024,-2500,
+26,0,MINI,Cooper Countryman All4,Midsize Cars,2024,-3500,
+26,0,MINI,John Cooper Works Clubman All4,Midsize Cars,2024,-3500,
+26,0,MINI,JCW Countryman All4,Midsize Cars,2024,-3500,
+22,0,Kia,Carnival,Minivan - 2WD,2024,-2500,
+22,0,Genesis,GV80 AWD,Standard Sport Utility Vehicle 4WD,2024,-5500,
+20,0,Genesis,GV80 AWD,Standard Sport Utility Vehicle 4WD,2024,-7000,
+27,0,BMW,M440i Coupe,Subcompact Cars,2024,-3000,Hybrid
+25,0,BMW,M440i xDrive Coupe,Subcompact Cars,2024,-4000,Hybrid
+26,0,BMW,M440i Convertible,Subcompact Cars,2024,-3500,Hybrid
+25,0,BMW,M440i xDrive Convertible,Subcompact Cars,2024,-4000,Hybrid
+27,0,BMW,M440i Gran Coupe,Compact Cars,2024,-3000,Hybrid
+25,0,BMW,M440i xDrive Gran Coupe,Compact Cars,2024,-4000,Hybrid
+30,0,Subaru,Legacy AWD,Midsize Cars,2024,500,
+26,0,Subaru,Legacy AWD,Midsize Cars,2024,-750,
+30,0,Subaru,Impreza,Small Station Wagons,2024,500,
+29,0,Subaru,Impreza,Small Station Wagons,2024,250,
+30,0,Buick,Encore GX FWD,Small Sport Utility Vehicle 2WD,2024,500,
+28,0,Lexus,NX 250,Small Sport Utility Vehicle 2WD,2024,0,
+27,0,Buick,Encore GX AWD,Small Sport Utility Vehicle 4WD,2024,-500,
+17,0,Jaguar,F-Pace SVR,Small Sport Utility Vehicle 4WD,2024,-9750,
+28,0,Lexus,NX 250 AWD,Small Sport Utility Vehicle 4WD,2024,0,
+39,0,Lexus,NX 350h AWD,Small Sport Utility Vehicle 4WD,2024,500,Hybrid
+24,0,Lexus,NX 350 AWD,Small Sport Utility Vehicle 4WD,2024,-4500,
+24,0,Lexus,NX 350 AWD F Sport,Small Sport Utility Vehicle 4WD,2024,-4500,
+29,0,Subaru,Crosstrek AWD,Small Sport Utility Vehicle 4WD,2024,250,
+28,0,Subaru,Outback AWD,Small Sport Utility Vehicle 4WD,2024,0,
+25,0,Subaru,Outback AWD,Small Sport Utility Vehicle 4WD,2024,-1250,
+23,0,Subaru,Outback Wilderness AWD,Small Sport Utility Vehicle 4WD,2024,-2000,
+25,0,BMW,X5 sDrive40i,Standard Sport Utility Vehicle 2WD,2024,-4000,Hybrid
+25,0,BMW,X5 xDrive40i,Standard Sport Utility Vehicle 4WD,2024,-4000,Hybrid
+19,0,BMW,X5 M60i xDrive,Standard Sport Utility Vehicle 4WD,2024,-7750,Hybrid
+15,0,BMW,X5 M Competition,Standard Sport Utility Vehicle 4WD,2024,-12250,Hybrid
+24,0,BMW,X6 xDrive40i,Standard Sport Utility Vehicle 4WD,2024,-4500,Hybrid
+19,0,BMW,X6 M60i xDrive,Standard Sport Utility Vehicle 4WD,2024,-7750,Hybrid
+15,0,BMW,X6 M Competition,Standard Sport Utility Vehicle 4WD,2024,-12250,Hybrid
+22,0,BMW,X7 xDrive40i,Standard Sport Utility Vehicle 4WD,2024,-5500,Hybrid
+18,0,BMW,X7 M60i xDrive,Standard Sport Utility Vehicle 4WD,2024,-8750,Hybrid
+18,0,BMW,M3 CS Sedan,Compact Cars,2024,-8750,
+42,0,Lexus,UX 250h,Compact Cars,2024,2750,Hybrid
+39,0,Lexus,UX 250h AWD,Compact Cars,2024,2250,Hybrid
+29,0,MINI,Cooper S Clubman,Midsize Cars,2024,-2250,
+25,0,MINI,Cooper S Clubman,Midsize Cars,2024,-4000,
+28,0,MINI,Cooper S Countryman,Midsize Cars,2024,-2500,
+26,0,MINI,Cooper S Countryman All4,Midsize Cars,2024,-3500,
+27,0,MINI,Cooper S Clubman All4,Midsize Cars,2024,-3000,
+33,0,Acura,Integra,Large Cars,2024,-1000,
+32,0,Acura,Integra A-Spec,Large Cars,2024,-1250,
+30,0,Acura,Integra A-Spec,Large Cars,2024,-1750,
+31,0,Kia,K5,Large Cars,2024,750,
+28,0,Kia,K5 AWD,Large Cars,2024,0,
+27,0,Kia,K5,Large Cars,2024,-500,
+30,0,Buick,Encore GX FWD,Small Sport Utility Vehicle 2WD,2024,500,
+26,0,Cadillac,XT4 FWD,Small Sport Utility Vehicle 2WD,2024,-3500,
+25,0,Cadillac,XT4 AWD,Small Sport Utility Vehicle 4WD,2024,-4000,
+18,0,Nissan,GT-R,Subcompact Cars,2024,-8750,
+27,0,Alfa Romeo,Giulia,Midsize Cars,2024,-3000,
+26,0,Alfa Romeo,Giulia AWD,Midsize Cars,2024,-3500,
+27,0,Honda,HR-V AWD,Small Station Wagons,2024,-500,
+28,0,Honda,HR-V FWD,Small Station Wagons,2024,0,
+22,0,Acura,MDX FWD,Small Sport Utility Vehicle 2WD,2024,-5500,
+25,0,Alfa Romeo,Stelvio,Small Sport Utility Vehicle 2WD,2024,-4000,
+28,0,Chevrolet,Equinox FWD,Small Sport Utility Vehicle 2WD,2024,0,
+26,0,GMC,Terrain FWD,Small Sport Utility Vehicle 2WD,2024,-750,
+23,0,Volkswagen,Atlas,Small Sport Utility Vehicle 2WD,2024,-2000,
+23,0,Volkswagen,Atlas Cross Sport,Small Sport Utility Vehicle 2WD,2024,-2000,
+21,0,Acura,MDX AWD,Small Sport Utility Vehicle 4WD,2024,-6250,
+24,0,Alfa Romeo,Stelvio AWD,Small Sport Utility Vehicle 4WD,2024,-4500,
+26,0,Chevrolet,Equinox AWD,Small Sport Utility Vehicle 4WD,2024,-750,
+25,0,GMC,Terrain AWD,Small Sport Utility Vehicle 4WD,2024,-1250,
+24,0,Mercedes-Benz,GLE350,Small Sport Utility Vehicle 4WD,2024,-4500,Hybrid
+23,0,Mercedes-Benz,GLE350 4matic,Small Sport Utility Vehicle 4WD,2024,-5000,Hybrid
+20,0,Volkswagen,Atlas 4motion Peak Edition,Small Sport Utility Vehicle 4WD,2024,-3500,
+22,0,Volkswagen,Atlas SE 4motion,Small Sport Utility Vehicle 4WD,2024,-2500,
+22,0,Volkswagen,Atlas Cross Sport 4motion,Small Sport Utility Vehicle 4WD,2024,-2500,
+21,0,Volkswagen,Atlas SEL 4motion,Small Sport Utility Vehicle 4WD,2024,-3000,
+19,0,Acura,MDX AWD Type-S,Standard Sport Utility Vehicle 4WD,2024,-7750,
+17,0,BMW,Alpina XB7,Standard Sport Utility Vehicle 4WD,2024,-9750,Hybrid
+25,0,Mazda,CX-90 4WD,Standard Sport Utility Vehicle 4WD,2024,-1250,Hybrid
+25,0,Mazda,CX-90 4WD,Standard Sport Utility Vehicle 4WD,2024,-4000,Hybrid
+22,0,Mercedes-Benz,GLE450 4matic,Standard Sport Utility Vehicle 4WD,2024,-5500,Hybrid
+20,0,Mercedes-Benz,AMG GLE53 4matic Plus,Standard Sport Utility Vehicle 4WD,2024,-7000,Hybrid
+20,0,Mercedes-Benz,AMG GLE53 4matic Plus Coupe,Standard Sport Utility Vehicle 4WD,2024,-7000,Hybrid
+21,0,Maserati,GranTurismo Trofeo,Subcompact Cars,2024,-6250,
+21,0,Maserati,GranTurismo Modena,Subcompact Cars,2024,-6250,
+28,0,BMW,Z4 sDrive30i,Two Seaters,2024,-2500,
+26,0,BMW,Z4 M40i,Two Seaters,2024,-3500,
+15,0,Lamborghini,Huracan Spyder,Two Seaters,2024,-12250,
+15,0,Lamborghini,Huracan Sterrato,Two Seaters,2024,-12250,
+15,0,Lamborghini,Huracan Coupe 2WD,Two Seaters,2024,-12250,
+27,0,Toyota,GR Supra,Two Seaters,2024,-3000,
+18,0,Lexus,LC 500 Convertible,Minicompact Cars,2024,-8750,
+23,0,Audi,RS 3,Subcompact Cars,2024,-5000,
+26,0,Audi,S3,Subcompact Cars,2024,-3500,Hybrid
+21,0,Audi,RS 5 Coupe,Subcompact Cars,2024,-6250,
+30,0,BMW,230i Coupe,Subcompact Cars,2024,-1750,
+26,0,BMW,M240i Coupe,Subcompact Cars,2024,-3500,
+19,0,BMW,M2 Coupe,Subcompact Cars,2024,-7750,
+19,0,BMW,M2 Coupe,Subcompact Cars,2024,-7750,
+24,0,Ford,Mustang Performance Package,Subcompact Cars,2024,-1500,
+26,0,Ford,Mustang,Subcompact Cars,2024,-750,
+17,0,Ford,Mustang,Subcompact Cars,2024,-5750,
+18,0,Ford,Mustang,Subcompact Cars,2024,-5000,
+17,0,Ford,Mustang Dark Horse,Subcompact Cars,2024,-5750,
+29,0,Lexus,LC 500h,Subcompact Cars,2024,-2250,Hybrid
+18,0,Lexus,LC 500,Subcompact Cars,2024,-8750,
+30,0,Audi,A4 quattro,Compact Cars,2024,-1750,Hybrid
+27,0,BMW,228i xDrive Gran Coupe,Compact Cars,2024,-3000,
+28,0,BMW,228i Gran Coupe,Compact Cars,2024,-2500,
+27,0,BMW,M235i xDrive Gran Coupe,Compact Cars,2024,-3000,
+29,0,BMW,330i Sedan,Compact Cars,2024,-2250,
+27,0,BMW,330i xDrive Sedan,Compact Cars,2024,-3000,
+19,0,BMW,M3 Sedan,Compact Cars,2024,-7750,
+19,0,BMW,M3 Competition Sedan,Compact Cars,2024,-7750,
+18,0,BMW,M3 Competition M xDrive Sedan,Compact Cars,2024,-8750,
+30,0,Volvo,S60 B5,Compact Cars,2024,-1750,Hybrid
+28,0,Volvo,S60 B5 AWD,Compact Cars,2024,-2500,Hybrid
+30,0,Audi,A5 Sportback quattro,Midsize Cars,2024,-1750,Hybrid
+20,0,Audi,RS 5 Sportback,Midsize Cars,2024,-7000,
+26,0,Jaguar,XF P250,Midsize Cars,2024,-3500,
+16,0,Maserati,Ghibli Trofeo,Midsize Cars,2024,-10750,
+20,0,Maserati,Ghibli GT,Midsize Cars,2024,-7000,
+20,0,Maserati,Ghibli Modena RWD,Midsize Cars,2024,-7000,
+25,0,Volvo,S90 B6 AWD,Midsize Cars,2024,-4000,Hybrid
+24,0,Acura,Integra,Large Cars,2024,-4500,
+25,0,Genesis,G80 AWD,Large Cars,2024,-4000,
+19,0,Genesis,G80 AWD,Large Cars,2024,-7750,
+21,0,Genesis,G90 AWD,Large Cars,2024,-6250,
+20,0,Genesis,G90 MHEV,Large Cars,2024,-7000,Hybrid
+16,0,Maserati,Quattroporte Trofeo,Large Cars,2024,-10750,
+20,0,Maserati,Quattroporte Modena AWD,Large Cars,2024,-7000,
+19,0,Maserati,Quattroporte Modena RWD,Large Cars,2024,-7750,
+19,0,Maserati,Quattroporte GT,Large Cars,2024,-7750,
+30,0,Buick,Envista,Small Station Wagons,2024,500,
+16,0,Lamborghini,Urus Performante,Small Station Wagons,2024,-10750,
+27,0,Volvo,V60CC B5 AWD,Small Station Wagons,2024,-3000,Hybrid
+25,0,Volvo,V90CC B6 AWD,Midsize Station Wagons,2024,-4000,Hybrid
+21,0,Cadillac,XT5 Hearse FWD,Special Purpose Vehicle 2WD,2024,-6250,
+21,0,Cadillac,XT5 Limo FWD,Special Purpose Vehicle 2WD,2024,-6250,
+21,0,Cadillac,XT5 Hearse AWD,Special Purpose Vehicle 4WD,2024,-6250,
+21,0,Cadillac,XT5 Limo AWD,Special Purpose Vehicle 4WD,2024,-6250,
+25,0,BMW,X3 sDrive30i,Small Sport Utility Vehicle 2WD,2024,-4000,
+24,0,Cadillac,XT5 FWD,Small Sport Utility Vehicle 2WD,2024,-4500,
+23,0,Cadillac,XT6 FWD,Small Sport Utility Vehicle 2WD,2024,-5000,
+21,0,Cadillac,XT5 FWD,Small Sport Utility Vehicle 2WD,2024,-3000,
+21,0,Cadillac,XT6 FWD,Small Sport Utility Vehicle 2WD,2024,-3000,
+31,0,Chevrolet,Trailblazer FWD,Small Sport Utility Vehicle 2WD,2024,750,
+30,0,Honda,CR-V FWD,Small Sport Utility Vehicle 2WD,2024,500,
+40,0,Honda,CR-V FWD,Small Sport Utility Vehicle 2WD,2024,2500,Hybrid
+22,0,Hyundai,Palisade FWD,Small Sport Utility Vehicle 2WD,2024,-2500,
+28,0,Hyundai,Kona FWD,Small Sport Utility Vehicle 2WD,2024,0,
+23,0,Hyundai,Santa Cruz FWD,Small Sport Utility Vehicle 2WD,2024,-2000,
+28,0,Hyundai,Tucson FWD,Small Sport Utility Vehicle 2WD,2024,0,
+22,0,Kia,Telluride FWD,Small Sport Utility Vehicle 2WD,2024,-2500,
+26,0,Mitsubishi,Eclipse Cross 2WD,Small Sport Utility Vehicle 2WD,2024,-750,
+26,0,Audi,Q5 quattro,Small Sport Utility Vehicle 4WD,2024,-3500,Hybrid
+21,0,Audi,SQ5,Small Sport Utility Vehicle 4WD,2024,-6250,
+21,0,Audi,SQ5 Sportback,Small Sport Utility Vehicle 4WD,2024,-6250,
+24,0,BMW,X3 xDrive30i,Small Sport Utility Vehicle 4WD,2024,-4500,
+24,0,BMW,X4 xDrive30i,Small Sport Utility Vehicle 4WD,2024,-4500,
+23,0,Cadillac,XT5 AWD,Small Sport Utility Vehicle 4WD,2024,-5000,
+23,0,Cadillac,XT6 AWD,Small Sport Utility Vehicle 4WD,2024,-5000,
+21,0,Cadillac,XT5 AWD,Small Sport Utility Vehicle 4WD,2024,-3000,
+21,0,Cadillac,XT6 AWD,Small Sport Utility Vehicle 4WD,2024,-3000,
+27,0,Chevrolet,Trailblazer AWD,Small Sport Utility Vehicle 4WD,2024,-500,
+24,0,Dodge,Hornet AWD,Small Sport Utility Vehicle 4WD,2024,-1500,
+22,0,Genesis,GV70 AWD,Small Sport Utility Vehicle 4WD,2024,-5500,
+24,0,Genesis,GV70 AWD,Small Sport Utility Vehicle 4WD,2024,-4500,
+20,0,Genesis,GV70 AWD,Small Sport Utility Vehicle 4WD,2024,-7000,
+29,0,Honda,CR-V AWD,Small Sport Utility Vehicle 4WD,2024,250,
+37,0,Honda,CR-V AWD,Small Sport Utility Vehicle 4WD,2024,2000,Hybrid
+21,0,Hyundai,Palisade AWD,Small Sport Utility Vehicle 4WD,2024,-3000,
+26,0,Hyundai,Kona AWD,Small Sport Utility Vehicle 4WD,2024,-750,
+23,0,Hyundai,Santa Cruz AWD,Small Sport Utility Vehicle 4WD,2024,-2000,
+22,0,Hyundai,Santa Cruz AWD,Small Sport Utility Vehicle 4WD,2024,-2500,
+37,0,Hyundai,Tucson Hybrid,Small Sport Utility Vehicle 4WD,2024,2000,Hybrid
+38,0,Hyundai,Tucson Hybrid Blue,Small Sport Utility Vehicle 4WD,2024,2250,Hybrid
+25,0,Hyundai,Tucson AWD,Small Sport Utility Vehicle 4WD,2024,-1250,
+24,0,Jaguar,F-Pace,Small Sport Utility Vehicle 4WD,2024,-4500,
+21,0,Jaguar,F-Pace P400 MHEV,Small Sport Utility Vehicle 4WD,2024,-6250,Hybrid
+21,0,Jeep,Wrangler 4dr 4WD,Small Sport Utility Vehicle 4WD,2024,-3000,
+14,0,Jeep,Wrangler 4dr 4WD,Small Sport Utility Vehicle 4WD,2024,-13500,
+21,0,Jeep,Wrangler 2dr 4WD,Small Sport Utility Vehicle 4WD,2024,-3000,
+20,0,Kia,Telluride AWD,Small Sport Utility Vehicle 4WD,2024,-3500,
+23,0,Land Rover,Range Rover Velar,Small Sport Utility Vehicle 4WD,2024,-5000,
+21,0,Land Rover,Range Rover Velar P400 MHEV,Small Sport Utility Vehicle 4WD,2024,-6250,Hybrid
+20,0,Maserati,Grecale Trofeo,Small Sport Utility Vehicle 4WD,2024,-7000,
+25,0,Maserati,Grecale Modena,Small Sport Utility Vehicle 4WD,2024,-4000,Hybrid
+25,0,Maserati,Grecale GT,Small Sport Utility Vehicle 4WD,2024,-4000,Hybrid
+25,0,Mitsubishi,Eclipse Cross 4WD,Small Sport Utility Vehicle 4WD,2024,-1250,
+26,0,Mitsubishi,Eclipse Cross ES 4WD,Small Sport Utility Vehicle 4WD,2024,-750,
+29,0,Subaru,Crosstrek AWD,Small Sport Utility Vehicle 4WD,2024,250,
+25,0,Volvo,XC60 B5 AWD,Small Sport Utility Vehicle 4WD,2024,-4000,Hybrid
+26,0,Volvo,XC40 B5 AWD,Small Sport Utility Vehicle 4WD,2024,-3500,Hybrid
+21,0,Buick,Enclave FWD,Standard Sport Utility Vehicle 2WD,2024,-3000,
+36,0,Toyota,Grand Highlander Hybrid,Standard Sport Utility Vehicle 2WD,2024,1750,Hybrid
+34,0,Toyota,Grand Highlander Hybrid Limited,Standard Sport Utility Vehicle 2WD,2024,1500,Hybrid
+24,0,Toyota,Grand Highlander LE/XLE,Standard Sport Utility Vehicle 2WD,2024,-1500,
+24,0,Toyota,Grand Highlander Limited,Standard Sport Utility Vehicle 2WD,2024,-1500,
+20,0,Buick,Enclave AWD,Standard Sport Utility Vehicle 4WD,2024,-3500,
+16,0,Lamborghini,Urus S,Standard Sport Utility Vehicle 4WD,2024,-10750,
+18,0,Maserati,Levante Modena,Standard Sport Utility Vehicle 4WD,2024,-8750,
+18,0,Maserati,Levante GT,Standard Sport Utility Vehicle 4WD,2024,-8750,
+16,0,Maserati,Levante Modena V8,Standard Sport Utility Vehicle 4WD,2024,-10750,
+16,0,Maserati,Levante Trofeo,Standard Sport Utility Vehicle 4WD,2024,-10750,
+16,0,Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,Standard Sport Utility Vehicle 4WD,2024,-10750,Hybrid
+16,0,Mercedes-Benz,AMG GLE63 S 4matic Plus,Standard Sport Utility Vehicle 4WD,2024,-10750,Hybrid
+34,0,Toyota,Grand Highlander Hybrid AWD,Standard Sport Utility Vehicle 4WD,2024,1500,Hybrid
+27,0,Toyota,Grand Highlander Hybrid AWD,Standard Sport Utility Vehicle 4WD,2024,-500,Hybrid
+23,0,Toyota,Grand Highlander AWD LE/XLE,Standard Sport Utility Vehicle 4WD,2024,-2000,
+22,0,Toyota,Grand Highlander AWD Limited/Platinum,Standard Sport Utility Vehicle 4WD,2024,-2500,
+24,0,Volvo,XC90 B5 AWD,Standard Sport Utility Vehicle 4WD,2024,-4500,Hybrid
+23,0,Volvo,XC90 B6 AWD,Standard Sport Utility Vehicle 4WD,2024,-5000,Hybrid
+15,0,Chevrolet,Corvette Z06,Two Seaters,2024,-12250,
+14,0,Chevrolet,Corvette Z06 Carbon Aero,Two Seaters,2024,-13500,
+26,0,Toyota,GR Supra,Two Seaters,2024,-3500,
+21,0,Toyota,GR Supra,Two Seaters,2024,-6250,
+20,0,Porsche,911 Carrera T,Minicompact Cars,2024,-7000,
+20,0,Porsche,911 Carrera T,Minicompact Cars,2024,-7000,
+28,0,BMW,230i xDrive Coupe,Subcompact Cars,2024,-2500,
+26,0,BMW,M240i xDrive Coupe,Subcompact Cars,2024,-3500,
+17,0,Ford,Mustang Dark Horse,Subcompact Cars,2024,-5750,
+26,0,BMW,M340i Sedan,Compact Cars,2024,-3500,Hybrid
+26,0,BMW,M340i xDrive Sedan,Compact Cars,2024,-3500,Hybrid
+25,0,Cadillac,CT4,Compact Cars,2024,-4000,
+26,0,Cadillac,CT4,Compact Cars,2024,-3500,
+25,0,Cadillac,CT4 AWD,Compact Cars,2024,-4000,
+19,0,Cadillac,CT4 V,Compact Cars,2024,-7750,
+18,0,Cadillac,CT4 V,Compact Cars,2024,-8750,
+24,0,Cadillac,CT4 AWD,Compact Cars,2024,-4500,
+23,0,Cadillac,CT4 V AWD,Compact Cars,2024,-5000,
+23,0,Cadillac,CT4 V,Compact Cars,2024,-5000,
+39,0,Mitsubishi,Mirage,Compact Cars,2024,2250,
+37,0,Mitsubishi,Mirage G4,Compact Cars,2024,2000,
+27,0,Volkswagen,GTI,Compact Cars,2024,-500,
+27,0,Volkswagen,GTI,Compact Cars,2024,-500,
+34,0,Volkswagen,Jetta,Compact Cars,2024,1500,
+20,0,Alfa Romeo,Giulia,Midsize Cars,2024,-7000,
+21,0,Cadillac,CT5 AWD,Midsize Cars,2024,-6250,
+21,0,Cadillac,CT5 V AWD,Midsize Cars,2024,-6250,
+22,0,Cadillac,CT5,Midsize Cars,2024,-5500,
+21,0,Cadillac,CT5 V,Midsize Cars,2024,-6250,
+15,0,Cadillac,CT5 V,Midsize Cars,2024,-12250,
+27,0,Cadillac,CT5,Midsize Cars,2024,-3000,
+25,0,Cadillac,CT5 AWD,Midsize Cars,2024,-4000,
+16,0,Cadillac,CT5 V,Midsize Cars,2024,-10750,
+26,0,Lexus,ES 350,Midsize Cars,2024,-750,
+25,0,Lexus,ES 350 F Sport,Midsize Cars,2024,-1250,
+28,0,Lexus,ES 250 AWD,Midsize Cars,2024,0,
+44,0,Lexus,ES 300h,Midsize Cars,2024,3000,Hybrid
+30,0,Mazda,3 5-Door 2WD,Midsize Cars,2024,500,
+30,0,Mazda,3 5-Door 2WD,Midsize Cars,2024,500,
+29,0,Mazda,3 5-Door 4WD,Midsize Cars,2024,250,
+26,0,Mazda,3 5-Door 4WD,Midsize Cars,2024,-750,
+28,0,BMW,740i Sedan,Large Cars,2024,-2500,Hybrid
+20,0,BMW,760i xDrive Sedan,Large Cars,2024,-7000,Hybrid
+14,0,Rolls-Royce,Phantom,Large Cars,2024,-13500,
+14,0,Rolls-Royce,Phantom Extended,Large Cars,2024,-13500,
+14,0,Rolls-Royce,Ghost,Large Cars,2024,-13500,
+14,0,Rolls-Royce,Ghost Extended,Large Cars,2024,-13500,
+14,0,Rolls-Royce,Ghost Black Badge,Large Cars,2024,-13500,
+30,0,Kia,Soul,Small Station Wagons,2024,500,
+31,0,Kia,Soul Eco dynamics,Small Station Wagons,2024,750,
+14,0,Rolls-Royce,Cullinan,Midsize Station Wagons,2024,-13500,
+14,0,Rolls-Royce,Cullinan Black Badge,Midsize Station Wagons,2024,-13500,
+18,0,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,2024,-5000,FFV
+16,0,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,2024,-6500,
+18,0,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,2024,-5000,
+18,0,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,2024,-5000,
+26,0,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,2024,-2500,Diesel
+18,0,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,2024,-5000,FFV
+16,0,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,2024,-6500,
+18,0,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,2024,-5000,
+18,0,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,2024,-5000,
+25,0,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,2024,-2750,Diesel
+22,0,Ram,1500 2WD,Standard Pickup Trucks 2WD,2024,-2500,Hybrid
+20,0,Ram,1500 2WD,Standard Pickup Trucks 2WD,2024,-5750,Hybrid
+17,0,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,2024,-5750,FFV
+17,0,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,2024,-5750,FFV
+17,0,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,2024,-9750,
+15,0,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,2024,-12250,
+15,0,Chevrolet,Silverado 4WD ZR2,Standard Pickup Trucks 4WD,2024,-12250,
+16,0,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,2024,-6500,
+16,0,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,2024,-6500,
+17,0,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,2024,-5750,
+16,0,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,2024,-6500,
+17,0,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,2024,-5750,
+16,0,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,2024,-6500,
+21,0,Chevrolet,Silverado 4WD ZR2,Standard Pickup Trucks 4WD,2024,-5000,Diesel
+24,0,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,2024,-3250,Diesel
+23,0,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,2024,-3750,Diesel
+22,0,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,2024,-4500,Diesel
+22,0,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,2024,-4500,Diesel
+17,0,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,2024,-5750,FFV
+17,0,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,2024,-5750,FFV
+16,0,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,2024,-10750,
+15,0,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,2024,-12250,
+15,0,GMC,Sierra 4WD AT4X,Standard Pickup Trucks 4WD,2024,-12250,
+16,0,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,2024,-6500,
+16,0,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,2024,-6500,
+17,0,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,2024,-5750,
+16,0,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,2024,-6500,
+17,0,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,2024,-5750,
+16,0,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,2024,-6500,
+19,0,GMC,Sierra 4WD AT4X,Standard Pickup Trucks 4WD,2024,-6500,Diesel
+24,0,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,2024,-3250,Diesel
+22,0,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,2024,-4500,Diesel
+21,0,Ram,1500 4WD,Standard Pickup Trucks 4WD,2024,-3000,Hybrid
+19,0,Ram,1500 4WD,Standard Pickup Trucks 4WD,2024,-6500,Hybrid
+12,0,Ram,1500 TRX 4WD,Standard Pickup Trucks 4WD,2024,-17250,
+16,0,Chevrolet,Silverado Cab Chassis 2WD,Special Purpose Vehicle 2WD,2024,-6500,
+15,0,Chevrolet,Silverado Cab Chassis 4WD,Special Purpose Vehicle 4WD,2024,-7500,
+15,0,GMC,Sierra Cab Chassis 2WD,Special Purpose Vehicle 2WD,2024,-7500,
+15,0,GMC,Sierra Cab Chassis 4WD,Special Purpose Vehicle 4WD,2024,-7500,
+22,0,Honda,Odyssey,Minivan - 2WD,2024,-2500,
+25,0,Chevrolet,Blazer FWD,Small Sport Utility Vehicle 2WD,2024,-1250,
+22,0,Chevrolet,Blazer FWD,Small Sport Utility Vehicle 2WD,2024,-2500,
+31,0,Hyundai,Kona FWD,Small Sport Utility Vehicle 2WD,2024,750,
+31,0,Hyundai,Venue,Small Sport Utility Vehicle 2WD,2024,750,
+31,0,Hyundai,Kona FWD,Small Sport Utility Vehicle 2WD,2024,750,
+28,0,Kia,Sportage FWD,Small Sport Utility Vehicle 2WD,2024,0,
+49,0,Kia,Niro,Small Sport Utility Vehicle 2WD,2024,3500,Hybrid
+53,0,Kia,Niro FE,Small Sport Utility Vehicle 2WD,2024,4000,Hybrid
+27,0,Mitsubishi,Outlander 2WD,Small Sport Utility Vehicle 2WD,2024,-500,
+19,0,Alfa Romeo,Stelvio AWD,Small Sport Utility Vehicle 4WD,2024,-7750,
+26,0,BMW,X1 M35i,Small Sport Utility Vehicle 4WD,2024,-3500,
+23,0,BMW,X3 M40i,Small Sport Utility Vehicle 4WD,2024,-5000,Hybrid
+17,0,BMW,X3 M,Small Sport Utility Vehicle 4WD,2024,-9750,
+17,0,BMW,X3 M Competition,Small Sport Utility Vehicle 4WD,2024,-9750,
+23,0,BMW,X4 M40i,Small Sport Utility Vehicle 4WD,2024,-5000,Hybrid
+17,0,BMW,X4 M,Small Sport Utility Vehicle 4WD,2024,-9750,
+17,0,BMW,X4 M Competition,Small Sport Utility Vehicle 4WD,2024,-9750,
+24,0,Chevrolet,Blazer AWD,Small Sport Utility Vehicle 4WD,2024,-1500,
+21,0,Chevrolet,Blazer AWD,Small Sport Utility Vehicle 4WD,2024,-3000,
+21,0,Ford,Edge AWD,Small Sport Utility Vehicle 4WD,2024,-3000,
+23,0,Ford,Edge AWD,Small Sport Utility Vehicle 4WD,2024,-2000,
+23,0,Ford,Edge AWD,Small Sport Utility Vehicle 4WD,2024,-2000,
+27,0,Hyundai,Kona AWD,Small Sport Utility Vehicle 4WD,2024,-500,
+28,0,Hyundai,Kona AWD,Small Sport Utility Vehicle 4WD,2024,0,
+19,0,Jeep,Wrangler 4dr 4WD,Small Sport Utility Vehicle 4WD,2024,-4250,
+19,0,Jeep,Wrangler 2dr 4WD,Small Sport Utility Vehicle 4WD,2024,-4250,
+17,0,Jeep,Wrangler Rubicon 4dr 4WD,Small Sport Utility Vehicle 4WD,2024,-5750,
+18,0,Jeep,Wrangler Rubicon 2dr 4WD,Small Sport Utility Vehicle 4WD,2024,-5000,
+25,0,Kia,Sportage AWD,Small Sport Utility Vehicle 4WD,2024,-1250,
+26,0,Kia,Sportage X-pro,Small Sport Utility Vehicle 4WD,2024,-750,
+22,0,Land Rover,Range Rover Velar P340 MHEV,Small Sport Utility Vehicle 4WD,2024,-5500,Hybrid
+27,0,Mazda,CX-50 4WD,Small Sport Utility Vehicle 4WD,2024,-500,
+25,0,Mazda,CX-50 4WD,Small Sport Utility Vehicle 4WD,2024,-1250,
+26,0,Mitsubishi,Outlander 4WD,Small Sport Utility Vehicle 4WD,2024,-750,
+21,0,Porsche,Macan,Small Sport Utility Vehicle 4WD,2024,-6250,
+16,0,Infiniti,QX80 2WD,Standard Sport Utility Vehicle 2WD,2024,-10750,
+15,0,Infiniti,QX80 4WD,Standard Sport Utility Vehicle 4WD,2024,-12250,
+15,0,Jeep,Grand Wagoneer 4WD,Standard Sport Utility Vehicle 4WD,2024,-12250,
+21,0,Land Rover,Discovery,Standard Sport Utility Vehicle 4WD,2024,-6250,
+16,0,Mercedes-Benz,AMG GLS63 4matic Plus,Standard Sport Utility Vehicle 4WD,2024,-10750,Hybrid
+17,0,Mercedes-Benz,GLE580 4matic,Standard Sport Utility Vehicle 4WD,2024,-9750,Hybrid
+16,0,Mercedes-Benz,GLS580 4matic,Standard Sport Utility Vehicle 4WD,2024,-10750,Hybrid
+21,0,Mercedes-Benz,GLS450 4matic,Standard Sport Utility Vehicle 4WD,2024,-6250,Hybrid
+19,0,Porsche,Cayenne,Standard Sport Utility Vehicle 4WD,2024,-7750,
+19,0,Porsche,Cayenne Coupe,Standard Sport Utility Vehicle 4WD,2024,-7750,
+17,0,Porsche,Cayenne S,Standard Sport Utility Vehicle 4WD,2024,-9750,
+17,0,Porsche,Cayenne S Coupe,Standard Sport Utility Vehicle 4WD,2024,-9750,
+85,39.7102,Audi,e-tron GT,Midsize Cars,2024,4000,EV
+85,39.7102,Audi,RS e-tron GT,Midsize Cars,2024,4000,EV
+103,32.6939,Audi,Q4 40 e-tron,Standard Sport Utility Vehicle 2WD,2024,4750,EV
+93,36.4003,Audi,Q4 50 e-tron quattro,Standard Sport Utility Vehicle 4WD,2024,4500,EV
+95,35.5517,Audi,Q4 Sportback 50 e-tron quattro,Standard Sport Utility Vehicle 4WD,2024,4500,EV
+81,41.3796,Audi,Q8 e-tron quattro,Standard Sport Utility Vehicle 4WD,2024,3750,EV
+86,39.1925,Audi,Q8 Sportback e-tron ultra quattro,Standard Sport Utility Vehicle 4WD,2024,4000,EV
+95,35.3627,BMW,i4 M50 Gran Coupe (19 inch wheels),Subcompact Cars,2024,4500,EV
+80,42.3096,BMW,i4 M50 Gran Coupe (20 inch wheels),Subcompact Cars,2024,3750,EV
+109,30.9718,BMW,i4 xDrive40 Gran Coupe (18 inch Wheels),Subcompact Cars,2024,5000,EV
+99,34.1406,BMW,i4 xDrive40 Gran Coupe (19 inch Wheels),Subcompact Cars,2024,4750,EV
+120,27.982,BMW,i4 eDrive35 Gran Coupe (18 inch Wheels),Subcompact Cars,2024,5250,EV
+110,30.7674,BMW,i4 eDrive35 Gran Coupe (19 inch Wheels),Subcompact Cars,2024,5000,EV
+109,30.9281,BMW,i4 eDrive40 Gran Coupe (18 inch Wheels),Subcompact Cars,2024,5000,EV
+100,33.8558,BMW,i4 eDrive40 Gran Coupe (19 inch Wheels),Subcompact Cars,2024,4750,EV
+105,32.2089,BMW,i5 eDrive40 Sedan (19 inch Wheels),Compact Cars,2024,5000,EV
+99,34.2082,BMW,i5 eDrive40 Sedan (20 inch Wheels),Compact Cars,2024,4750,EV
+96,35.2736,BMW,i5 eDrive40 Sedan (21 inch Wheels),Compact Cars,2024,4500,EV
+91,37.0351,BMW,i5 M60 xDrive Sedan (19 inch Wheels),Compact Cars,2024,4250,EV
+89,37.7438,BMW,i5 M60 xDrive Sedan (20 inch Wheels),Compact Cars,2024,4250,EV
+85,39.5995,BMW,i5 M60 xDrive Sedan (21 inch Wheels),Compact Cars,2024,4000,EV
+90,37.3574,BMW,i7 eDrive50 Sedan (19 inch Wheels),Large Cars,2024,4250,EV
+86,38.9985,BMW,i7 eDrive50 Sedan (20 inch Wheels),Large Cars,2024,4000,EV
+88,38.0941,BMW,i7 eDrive50 Sedan (21 inch Wheels),Large Cars,2024,4250,EV
+77,44.0186,BMW,i7 M70 xDrive Sedan (20 inch Wheels),Large Cars,2024,3500,EV
+81,41.5264,BMW,i7 M70 xDrive Sedan (21 inch Wheels),Large Cars,2024,3750,EV
+90,37.6463,BMW,i7 xDrive60 Sedan (19 inch wheels),Large Cars,2024,4250,EV
+84,40.2123,BMW,i7 xDrive60 Sedan (20 inch wheels),Large Cars,2024,4000,EV
+88,38.2532,BMW,i7 xDrive60 Sedan (21 inch wheels),Large Cars,2024,4250,EV
+80,42.2946,BMW,iX M60 (21 inch Wheels),Standard Sport Utility Vehicle 4WD,2024,3750,EV
+80,42.2946,BMW,iX M60 (22 inch Wheels),Standard Sport Utility Vehicle 4WD,2024,3750,EV
+86,39.3181,BMW,iX xDrive40 (20 inch Wheels),Standard Sport Utility Vehicle 4WD,2024,4000,EV
+86,39.3181,BMW,iX xDrive40 (21 inch Wheels),Standard Sport Utility Vehicle 4WD,2024,4000,EV
+86,39.3181,BMW,iX xDrive40 (22 inch Wheels),Standard Sport Utility Vehicle 4WD,2024,4000,EV
+83,40.8272,BMW,iX xDrive50 (20 inch wheels),Standard Sport Utility Vehicle 4WD,2024,4000,EV
+83,40.8272,BMW,iX xDrive50 (21 inch wheels),Standard Sport Utility Vehicle 4WD,2024,4000,EV
+83,40.8272,BMW,iX xDrive50 (22 inch wheels),Standard Sport Utility Vehicle 4WD,2024,4000,EV
+88,38.0898,Cadillac,LYRIQ,Small Sport Utility Vehicle 2WD,2024,4250,EV
+63,53.3826,Chevrolet,Silverado EV,Standard Pickup Trucks 4WD,2024,2500,EV
+91,37.1566,Genesis,Electrified GV70,Small Sport Utility Vehicle 4WD,2024,4250,EV
+100,34,Genesis,GV60 Advanced (19 inch Wheels),Small Sport Utility Vehicle 4WD,2024,4750,EV
+95,35.4988,Genesis,GV60 Advanced (20 inch Wheels),Small Sport Utility Vehicle 4WD,2024,4500,EV
+90,37,Genesis,GV60 PERFORMANCE,Small Sport Utility Vehicle 4WD,2024,4250,EV
+53,63.4112,GMC,Hummer EV Pickup,Standard Pickup Trucks 4WD,2024,1250,EV
+50,63.0286,GMC,Hummer EV Pickup MT Tires,Standard Pickup Trucks 4WD,2024,1500,EV
+53,63.4112,GMC,Hummer EV SUV,Standard Sport Utility Vehicle 4WD,2024,1250,EV
+50,63.0286,GMC,Hummer EV SUV MT Tires,Standard Sport Utility Vehicle 4WD,2024,1500,EV
+121,27.2272,Hyundai,Ioniq 6 Long range AWD (18 inch Wheels),Midsize Cars,2024,5500,EV
+103,33,Hyundai,Ioniq 6 Long range AWD (20 inch Wheels),Midsize Cars,2024,4750,EV
+140,24,Hyundai,Ioniq 6 Long range RWD (18 inch Wheels),Midsize Cars,2024,5750,EV
+117,29,Hyundai,Ioniq 6 Long range RWD (20 inch Wheels),Midsize Cars,2024,5250,EV
+135,25,Hyundai,Ioniq 6 Standard Range RWD,Midsize Cars,2024,5750,EV
+114,30,Hyundai,Ioniq 5 Long range RWD,Small Sport Utility Vehicle 2WD,2024,5000,EV
+110,31,Hyundai,Ioniq 5 Standard range RWD,Small Sport Utility Vehicle 2WD,2024,5000,EV
+99,34.0206,Hyundai,Ioniq 5 Long range AWD,Small Sport Utility Vehicle 4WD,2024,4750,EV
+85,39.4505,Jaguar,I-Pace EV400 (20 inch tires),Small Sport Utility Vehicle 4WD,2024,4000,EV
+76,44.6407,Jaguar,I-Pace EV400 (22 inch tires),Small Sport Utility Vehicle 4WD,2024,3500,EV
+117,29,Kia,EV6 Long Range RWD,Small Sport Utility Vehicle 2WD,2024,5250,EV
+117,29,Kia,EV6 Standard Range RWD,Small Sport Utility Vehicle 2WD,2024,5250,EV
+113,29,Kia,Niro Electric,Small Sport Utility Vehicle 2WD,2024,5250,EV
+83,41,Kia,EV6 AWD GT,Small Sport Utility Vehicle 4WD,2024,4000,EV
+109,31.0595,Kia,EV6 Long Range AWD (19 inch Wheels),Small Sport Utility Vehicle 4WD,2024,5000,EV
+96,35,Kia,EV6 Long Range AWD (20 inch Wheels),Small Sport Utility Vehicle 4WD,2024,4500,EV
+74,46,Mercedes-Benz,AMG EQE 4matic Plus (SUV),Standard Sport Utility Vehicle 4WD,2024,3250,EV
+110,30.714,MINI,Cooper SE Hardtop 2 door,Subcompact Cars,2024,5000,EV
+111,30.4264,Nissan,LEAF,Midsize Cars,2024,5000,EV
+109,30.7824,Nissan,LEAF SV,Midsize Cars,2024,5000,EV
+106,31.7153,Polestar,2 Dual Motor (19 Inch Wheels),Midsize Cars,2024,5000,EV
+102,33,Polestar,2 Dual Motor (20 Inch Wheels),Midsize Cars,2024,4750,EV
+95,35,Polestar,2 Dual Motor Performance Pack,Midsize Cars,2024,4500,EV
+115,29.2238,Polestar,2 Single Motor (19 Inch Wheels),Midsize Cars,2024,5250,EV
+111,30,Polestar,2 Single Motor (20 Inch Wheels),Midsize Cars,2024,5000,EV
+107,31.4965,Volvo,C40 Recharge,Small Sport Utility Vehicle 2WD,2024,5000,EV
+106,31.6937,Volvo,XC40 Recharge,Small Sport Utility Vehicle 2WD,2024,5000,EV
+99,34.169,Volvo,C40 Recharge twin,Small Sport Utility Vehicle 4WD,2024,4750,EV
+98,34.4839,Volvo,XC40 Recharge twin,Small Sport Utility Vehicle 4WD,2024,4500,EV
+9,0,Bugatti,Chiron Super Sport,Two Seaters,2024,-26000,
+19,0,Chevrolet,Corvette,Two Seaters,2024,-7750,
+14,0,Ferrari,812 Competizione,Two Seaters,2024,-13500,
+14,0,Ferrari,812 Competizione A,Two Seaters,2024,-13500,
+13,0,Ferrari,Daytona SP3,Two Seaters,2024,-15250,
+20,0,Nissan,Z,Two Seaters,2024,-7000,
+22,0,Nissan,Z,Two Seaters,2024,-5500,
+19,0,Nissan,Z NISMO,Two Seaters,2024,-7750,
+16,0,Porsche,911 GT3,Two Seaters,2024,-10750,
+15,0,Porsche,911 GT3,Two Seaters,2024,-12250,
+16,0,Porsche,911 GT3 Touring,Two Seaters,2024,-10750,
+15,0,Porsche,911 GT3 Touring,Two Seaters,2024,-12250,
+16,0,Porsche,911 GT3 RS,Two Seaters,2024,-10750,
+22,0,Porsche,718 Boxster,Two Seaters,2024,-5500,
+24,0,Porsche,718 Boxster,Two Seaters,2024,-4500,
+22,0,Porsche,718 Cayman,Two Seaters,2024,-5500,
+24,0,Porsche,718 Cayman,Two Seaters,2024,-4500,
+21,0,Porsche,718 Boxster S,Two Seaters,2024,-6250,
+22,0,Porsche,718 Boxster S,Two Seaters,2024,-5500,
+19,0,Porsche,718 Boxster GTS,Two Seaters,2024,-7750,
+21,0,Porsche,718 Boxster GTS,Two Seaters,2024,-6250,
+19,0,Porsche,718 Cayman GTS,Two Seaters,2024,-7750,
+21,0,Porsche,718 Cayman GTS,Two Seaters,2024,-6250,
+21,0,Porsche,718 Cayman S,Two Seaters,2024,-6250,
+22,0,Porsche,718 Cayman S,Two Seaters,2024,-5500,
+16,0,Porsche,718 GT4 RS,Two Seaters,2024,-10750,
+17,0,Porsche,911 Turbo,Minicompact Cars,2024,-9750,
+16,0,Porsche,911 Turbo Cabriolet,Minicompact Cars,2024,-10750,
+16,0,Porsche,911 Turbo S,Minicompact Cars,2024,-10750,
+16,0,Porsche,911 Turbo S Cabriolet,Minicompact Cars,2024,-10750,
+27,0,Audi,A5 Coupe quattro,Subcompact Cars,2024,-3000,Hybrid
+27,0,Audi,A5 Cabriolet quattro,Subcompact Cars,2024,-3000,Hybrid
+32,0,Audi,A3,Subcompact Cars,2024,1000,Hybrid
+30,0,Audi,A3 quattro,Subcompact Cars,2024,500,Hybrid
+24,0,Audi,S5 Coupe,Subcompact Cars,2024,-4500,
+22,0,Audi,S5 Cabriolet,Subcompact Cars,2024,-5500,
+20,0,Chevrolet,Camaro,Subcompact Cars,2024,-3500,
+16,0,Chevrolet,Camaro,Subcompact Cars,2024,-10750,
+16,0,Chevrolet,Camaro,Subcompact Cars,2024,-10750,
+20,0,Chevrolet,Camaro,Subcompact Cars,2024,-7000,
+19,0,Chevrolet,Camaro,Subcompact Cars,2024,-7750,
+22,0,Chevrolet,Camaro,Subcompact Cars,2024,-2500,
+19,0,Ferrari,Roma,Subcompact Cars,2024,-7750,
+27,0,Audi,A4 S line quattro,Compact Cars,2024,-3000,Hybrid
+24,0,Audi,S4,Compact Cars,2024,-4500,
+21,0,Mercedes-Benz,AMG GT 43 4matic Plus,Compact Cars,2024,-6250,Hybrid
+21,0,Mercedes-Benz,AMG GT 53 4matic Plus,Compact Cars,2024,-6250,Hybrid
+25,0,Volkswagen,Golf R,Compact Cars,2024,-4000,
+23,0,Volkswagen,Golf R,Compact Cars,2024,-5000,
+34,0,Volkswagen,Jetta,Compact Cars,2024,1500,
+33,0,Volkswagen,Jetta Sport/SE/SEL,Compact Cars,2024,1250,
+28,0,Volkswagen,GLI,Compact Cars,2024,0,
+27,0,Audi,A5 Sportback S line quattro,Midsize Cars,2024,-3000,Hybrid
+26,0,Audi,A6 quattro,Midsize Cars,2024,-3500,Hybrid
+23,0,Audi,S5 Sportback,Midsize Cars,2024,-5000,
+25,0,Audi,A7 quattro,Midsize Cars,2024,-4000,Hybrid
+25,0,Audi,A6 quattro,Midsize Cars,2024,-4000,Hybrid
+17,0,Audi,RS 7,Midsize Cars,2024,-9750,Hybrid
+22,0,Audi,S6,Midsize Cars,2024,-5500,Hybrid
+22,0,Audi,S7,Midsize Cars,2024,-5500,Hybrid
+30,0,BMW,530i Sedan,Midsize Cars,2024,-1750,Hybrid
+30,0,BMW,530i xDrive Sedan,Midsize Cars,2024,-1750,Hybrid
+36,0,Honda,Civic 4Dr,Midsize Cars,2024,1750,
+34,0,Honda,Civic 4Dr,Midsize Cars,2024,1500,
+31,0,Honda,Civic 4Dr,Midsize Cars,2024,-1500,
+35,0,Honda,Civic 4Dr,Midsize Cars,2024,1500,
+33,0,Honda,Civic 4Dr,Midsize Cars,2024,1250,
+44,0,Honda,Accord Hybrid Sport/Touring,Midsize Cars,2024,3000,Hybrid
+34,0,Hyundai,Elantra,Midsize Cars,2024,1500,
+36,0,Hyundai,Elantra,Midsize Cars,2024,1750,
+24,0,Jaguar,XF P300 AWD,Midsize Cars,2024,-4500,
+26,0,Kia,Forte,Midsize Cars,2024,-750,
+30,0,Kia,Forte,Midsize Cars,2024,500,
+34,0,Kia,Forte FE,Midsize Cars,2024,1500,
+32,0,Kia,Forte,Midsize Cars,2024,1000,
+32,0,Nissan,Altima,Midsize Cars,2024,1000,
+30,0,Nissan,Altima AWD,Midsize Cars,2024,500,
+31,0,Nissan,Altima SL/SR,Midsize Cars,2024,750,
+29,0,Nissan,Altima SR,Midsize Cars,2024,250,
+26,0,Toyota,Camry,Midsize Cars,2024,-750,
+25,0,Toyota,Camry TRD,Midsize Cars,2024,-1250,
+26,0,Toyota,Camry XSE,Midsize Cars,2024,-750,
+29,0,Toyota,Camry AWD LE/SE,Midsize Cars,2024,250,
+28,0,Toyota,Camry AWD XLE/XSE,Midsize Cars,2024,0,
+32,0,Toyota,Camry LE/SE,Midsize Cars,2024,1000,
+31,0,Toyota,Camry XLE/XSE,Midsize Cars,2024,750,
+52,0,Toyota,Camry Hybrid LE,Midsize Cars,2024,3750,Hybrid
+46,0,Toyota,Camry Hybrid SE/XLE/XSE,Midsize Cars,2024,3250,Hybrid
+22,0,Audi,A8 quattro,Large Cars,2024,-5500,Hybrid
+18,0,Audi,S8,Large Cars,2024,-8750,Hybrid
+27,0,BMW,740i xDrive Sedan,Large Cars,2024,-3000,Hybrid
+35,0,Honda,Civic 5Dr,Large Cars,2024,1500,
+33,0,Honda,Civic 5Dr,Large Cars,2024,1250,
+31,0,Honda,Civic 5Dr,Large Cars,2024,750,
+33,0,Honda,Civic 5Dr,Large Cars,2024,1250,
+32,0,Honda,Civic 5Dr,Large Cars,2024,1000,
+29,0,Honda,Civic 5Dr,Large Cars,2024,250,
+32,0,Honda,Accord,Large Cars,2024,1000,
+48,0,Honda,Accord Hybrid,Large Cars,2024,3500,Hybrid
+26,0,Audi,A4 allroad quattro,Small Station Wagons,2024,-3500,Hybrid
+25,0,Audi,A6 Allroad quattro,Midsize Station Wagons,2024,-4000,Hybrid
+17,0,Audi,RS 6 Avant,Midsize Station Wagons,2024,-9750,Hybrid
+23,0,Nissan,Murano FWD,Midsize Station Wagons,2024,-2000,
+23,0,Nissan,Murano AWD,Midsize Station Wagons,2024,-2000,
+19,0,GMC,Canyon 4WD,Small Pickup Trucks 4WD,2024,-4250,
+20,0,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,2024,-3500,
+19,0,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,2024,-4250,
+20,0,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,2024,-3500,
+19,0,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,2024,-4250,
+17,0,Nissan,Titan 2WD,Standard Pickup Trucks 2WD,2024,-9750,
+20,0,Toyota,Tundra 2WD,Standard Pickup Trucks 2WD,2024,-3500,
+20,0,Toyota,Tundra 2WD,Standard Pickup Trucks 2WD,2024,-3500,
+22,0,Toyota,Tundra 2WD,Standard Pickup Trucks 2WD,2024,-2500,Hybrid
+17,0,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,2024,-5750,
+18,0,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,2024,-5000,
+19,0,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,2024,-4250,
+16,0,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,2024,-6500,
+17,0,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,2024,-5750,
+18,0,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,2024,-5000,
+16,0,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,2024,-6500,
+17,0,Nissan,Titan 4WD,Standard Pickup Trucks 4WD,2024,-9750,
+16,0,Nissan,Titan 4WD PRO4X,Standard Pickup Trucks 4WD,2024,-10750,
+19,0,Toyota,Tundra 4WD,Standard Pickup Trucks 4WD,2024,-4250,
+19,0,Toyota,Tundra 4WD,Standard Pickup Trucks 4WD,2024,-4250,
+20,0,Toyota,Tundra 4WD,Standard Pickup Trucks 4WD,2024,-3500,Hybrid
+19,0,Toyota,Tundra 4WD PRO,Standard Pickup Trucks 4WD,2024,-4250,Hybrid
+22,0,Chrysler,Pacifica,Minivan - 2WD,2024,-2500,
+22,0,Chrysler,Voyager,Minivan - 2WD,2024,-2500,
+22,0,Honda,Pilot FWD,Small Sport Utility Vehicle 2WD,2024,-2500,
+37,0,Kia,Sorento Hybrid FWD,Small Sport Utility Vehicle 2WD,2024,2000,Hybrid
+25,0,Lexus,RX 350,Small Sport Utility Vehicle 2WD,2024,-4000,
+27,0,Mitsubishi,Outlander Sport 2WD,Small Sport Utility Vehicle 2WD,2024,-500,
+23,0,Nissan,Pathfinder 2WD,Small Sport Utility Vehicle 2WD,2024,-2000,
+27,0,Volkswagen,Tiguan S,Small Sport Utility Vehicle 2WD,2024,-500,
+26,0,Volkswagen,Tiguan,Small Sport Utility Vehicle 2WD,2024,-750,
+31,0,Volkswagen,Taos,Small Sport Utility Vehicle 2WD,2024,750,
+23,0,Audi,Q3 S line quattro,Small Sport Utility Vehicle 4WD,2024,-2000,
+24,0,Audi,Q5 S line quattro,Small Sport Utility Vehicle 4WD,2024,-4500,Hybrid
+24,0,Audi,Q5 Sportback S line quattro,Small Sport Utility Vehicle 4WD,2024,-4500,Hybrid
+25,0,Audi,Q3 quattro,Small Sport Utility Vehicle 4WD,2024,-1250,
+27,0,Jeep,Compass 4WD,Small Sport Utility Vehicle 4WD,2024,-500,
+34,0,Kia,Sorento Hybrid AWD,Small Sport Utility Vehicle 4WD,2024,1500,Hybrid
+36,0,Lexus,RX 350h AWD,Small Sport Utility Vehicle 4WD,2024,0,Hybrid
+24,0,Lexus,RX 350 AWD,Small Sport Utility Vehicle 4WD,2024,-4500,
+27,0,Lexus,RX 500h AWD,Small Sport Utility Vehicle 4WD,2024,-3000,Hybrid
+28,0,Mazda,CX-5 4WD,Small Sport Utility Vehicle 4WD,2024,0,
+24,0,Mazda,CX-5 4WD,Small Sport Utility Vehicle 4WD,2024,-1500,
+26,0,Mitsubishi,Outlander Sport 4WD,Small Sport Utility Vehicle 4WD,2024,-750,
+25,0,Mitsubishi,Outlander Sport 4WD,Small Sport Utility Vehicle 4WD,2024,-1250,
+23,0,Nissan,Pathfinder 4WD,Small Sport Utility Vehicle 4WD,2024,-2000,
+21,0,Nissan,Pathfinder 4WD Rock Creek,Small Sport Utility Vehicle 4WD,2024,-6250,
+19,0,Porsche,Macan S,Small Sport Utility Vehicle 4WD,2024,-7750,
+21,0,Porsche,Macan T,Small Sport Utility Vehicle 4WD,2024,-6250,
+19,0,Porsche,Macan GTS,Small Sport Utility Vehicle 4WD,2024,-7750,
+29,0,Subaru,Forester AWD,Small Sport Utility Vehicle 4WD,2024,250,
+27,0,Subaru,Crosstrek Wilderness AWD,Small Sport Utility Vehicle 4WD,2024,-500,
+26,0,Subaru,Forester Wilderness AWD,Small Sport Utility Vehicle 4WD,2024,-750,
+25,0,Volkswagen,Tiguan 4motion,Small Sport Utility Vehicle 4WD,2024,-1250,
+24,0,Volkswagen,Tiguan R-Line 4motion,Small Sport Utility Vehicle 4WD,2024,-1500,
+27,0,Volkswagen,Taos 4motion,Small Sport Utility Vehicle 4WD,2024,-500,
+19,0,Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,2024,-4250,
+23,0,Infiniti,QX60 FWD,Standard Sport Utility Vehicle 2WD,2024,-5000,
+20,0,Jeep,Wagoneer L 2WD,Standard Sport Utility Vehicle 2WD,2024,-3500,
+20,0,Jeep,Wagoneer 2WD,Standard Sport Utility Vehicle 2WD,2024,-3500,
+22,0,Jeep,Grand Cherokee 2WD,Standard Sport Utility Vehicle 2WD,2024,-2500,
+21,0,Jeep,Grand Cherokee L 2WD,Standard Sport Utility Vehicle 2WD,2024,-3000,
+22,0,Toyota,Sequoia 2WD,Standard Sport Utility Vehicle 2WD,2024,-2500,Hybrid
+21,0,Audi,Q7 quattro,Standard Sport Utility Vehicle 4WD,2024,-6250,Hybrid
+17,0,Audi,SQ7,Standard Sport Utility Vehicle 4WD,2024,-9750,
+15,0,Audi,RS Q8,Standard Sport Utility Vehicle 4WD,2024,-12250,Hybrid
+21,0,Audi,Q7 quattro,Standard Sport Utility Vehicle 4WD,2024,-6250,
+17,0,Audi,SQ8,Standard Sport Utility Vehicle 4WD,2024,-9750,
+13,0,Cadillac,Escalade V AWD,Standard Sport Utility Vehicle 4WD,2024,-15250,
+18,0,Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,2024,-5000,
+17,0,Ford,Expedition Timberline AWD,Standard Sport Utility Vehicle 4WD,2024,-5750,
+21,0,Honda,Pilot AWD,Standard Sport Utility Vehicle 4WD,2024,-3000,
+21,0,Honda,Pilot AWD Touring/Elite/Black,Standard Sport Utility Vehicle 4WD,2024,-3000,
+20,0,Honda,Pilot AWD TrailSport,Standard Sport Utility Vehicle 4WD,2024,-3500,
+22,0,Infiniti,QX60 AWD,Standard Sport Utility Vehicle 4WD,2024,-5500,
+19,0,Jeep,Wagoneer 4WD,Standard Sport Utility Vehicle 4WD,2024,-4250,
+19,0,Jeep,Wagoneer L 4WD,Standard Sport Utility Vehicle 4WD,2024,-4250,
+17,0,Jeep,Grand Wagoneer 4WD,Standard Sport Utility Vehicle 4WD,2024,-9750,
+17,0,Jeep,Grand Wagoneer L 4WD,Standard Sport Utility Vehicle 4WD,2024,-9750,
+21,0,Jeep,Grand Cherokee L 4WD,Standard Sport Utility Vehicle 4WD,2024,-3000,
+22,0,Jeep,Grand Cherokee 4WD,Standard Sport Utility Vehicle 4WD,2024,-2500,
+19,0,Land Rover,Range Rover MHEV,Standard Sport Utility Vehicle 4WD,2024,-7750,Hybrid
+18,0,Land Rover,Range Rover LWB MHEV,Standard Sport Utility Vehicle 4WD,2024,-8750,Hybrid
+19,0,Land Rover,Range Rover Sport MHEV,Standard Sport Utility Vehicle 4WD,2024,-7750,Hybrid
+18,0,Land Rover,Range Rover Sport SVR MHEV,Standard Sport Utility Vehicle 4WD,2024,-8750,Hybrid
+18,0,Land Rover,Range Rover SV MHEV,Standard Sport Utility Vehicle 4WD,2024,-8750,Hybrid
+18,0,Land Rover,Range Rover SV LWB MHEV,Standard Sport Utility Vehicle 4WD,2024,-8750,Hybrid
+19,0,Land Rover,Defender 110,Standard Sport Utility Vehicle 4WD,2024,-7750,
+18,0,Land Rover,Defender 110 MHEV,Standard Sport Utility Vehicle 4WD,2024,-8750,Hybrid
+19,0,Land Rover,Defender 90,Standard Sport Utility Vehicle 4WD,2024,-7750,
+20,0,Land Rover,Defender 90 MHEV,Standard Sport Utility Vehicle 4WD,2024,-7000,Hybrid
+16,0,Land Rover,Defender 90,Standard Sport Utility Vehicle 4WD,2024,-10750,
+16,0,Land Rover,Defender 110,Standard Sport Utility Vehicle 4WD,2024,-10750,
+18,0,Land Rover,Defender 130 P300 MHEV,Standard Sport Utility Vehicle 4WD,2024,-8750,Hybrid
+18,0,Land Rover,Defender 130 P400 MHEV,Standard Sport Utility Vehicle 4WD,2024,-8750,Hybrid
+17,0,Land Rover,Defender 130 Outbound,Standard Sport Utility Vehicle 4WD,2024,-9750,Hybrid
+18,0,Lincoln,Navigator 4WD,Standard Sport Utility Vehicle 4WD,2024,-5000,
+16,0,Mercedes-Benz,GLS600 4matic Maybach,Standard Sport Utility Vehicle 4WD,2024,-10750,Hybrid
+22,0,Nissan,Pathfinder 4WD Platinum,Standard Sport Utility Vehicle 4WD,2024,-2500,
+22,0,Subaru,Ascent,Standard Sport Utility Vehicle 4WD,2024,-2500,
+21,0,Subaru,Ascent Limited/Touring/Onyx AWD,Standard Sport Utility Vehicle 4WD,2024,-3000,
+20,0,Toyota,Sequoia 4WD,Standard Sport Utility Vehicle 4WD,2024,-3500,Hybrid
+19,0,Chevrolet,Corvette E-RAY,Two Seaters,2024,-7750,Hybrid
+14,0,Bentley,Continental GTC,Minicompact Cars,2024,-13500,
+19,0,Ferrari,Roma Spider,Minicompact Cars,2024,-7750,
+24,0,Toyota,GR Corolla,Subcompact Cars,2024,-4500,
+30,0,Mercedes-Benz,C300,Compact Cars,2024,-1750,Hybrid
+35,0,Nissan,Versa,Compact Cars,2024,1500,
+30,0,Nissan,Versa,Compact Cars,2024,500,
+15,0,Bentley,Flying Spur,Midsize Cars,2024,-12250,
+20,0,Maserati,Ghibli Modena AWD,Midsize Cars,2024,-7000,
+33,0,Nissan,Kicks,Midsize Cars,2024,1250,
+34,0,Nissan,Sentra,Midsize Cars,2024,1500,
+33,0,Nissan,Sentra SR,Midsize Cars,2024,1250,
+57,0,Toyota,Prius,Midsize Cars,2024,4250,Hybrid
+54,0,Toyota,Prius AWD,Midsize Cars,2024,4000,Hybrid
+49,0,Toyota,Prius AWD XLE/LTD,Midsize Cars,2024,3500,Hybrid
+52,0,Toyota,Prius XLE/LTD,Midsize Cars,2024,3750,Hybrid
+21,0,Mercedes-Benz,S580 4matic Maybach,Large Cars,2024,-6250,Hybrid
+21,0,Mercedes-Benz,S580 4matic,Large Cars,2024,-6250,Hybrid
+21,0,Nissan,Frontier 2WD,Standard Pickup Trucks 2WD,2024,-3000,
+20,0,Nissan,Frontier 4WD,Standard Pickup Trucks 4WD,2024,-3500,
+19,0,Nissan,Frontier 4WD PRO4X,Standard Pickup Trucks 4WD,2024,-4250,
+36,0,Toyota,Sienna 2WD,Minivan - 2WD,2024,1750,Hybrid
+20,0,Chrysler,Pacifica AWD,Minivan - 4WD,2024,-3500,
+35,0,Toyota,Sienna AWD,Minivan - 4WD,2024,1500,Hybrid
+26,0,Infiniti,QX50,Small Sport Utility Vehicle 2WD,2024,-3500,
+29,0,Mercedes-Benz,GLC300,Small Sport Utility Vehicle 2WD,2024,-2250,Hybrid
+23,0,Acura,RDX AWD,Small Sport Utility Vehicle 4WD,2024,-5000,
+23,0,Acura,RDX AWD A-SPEC,Small Sport Utility Vehicle 4WD,2024,-5000,
+25,0,Infiniti,QX50 AWD,Small Sport Utility Vehicle 4WD,2024,-4000,
+25,0,Infiniti,QX55 AWD,Small Sport Utility Vehicle 4WD,2024,-4000,
+27,0,Mercedes-Benz,GLC300 4matic,Small Sport Utility Vehicle 4WD,2024,-3000,Hybrid
+26,0,Mercedes-Benz,GLC300 4matic Coupe,Small Sport Utility Vehicle 4WD,2024,-3500,Hybrid
+23,0,Lexus,TX 350,Standard Sport Utility Vehicle 2WD,2024,-5000,
+12,0,Ferrari,Purosangue,Standard Sport Utility Vehicle 4WD,2024,-17250,
+19,0,Land Rover,Discovery MHEV,Standard Sport Utility Vehicle 4WD,2024,-7750,Hybrid
+20,0,Land Rover,Range Rover P360 MHEV,Standard Sport Utility Vehicle 4WD,2024,-7000,Hybrid
+20,0,Land Rover,Range Rover P400 MHEV,Standard Sport Utility Vehicle 4WD,2024,-7000,Hybrid
+20,0,Land Rover,Range Rover P400 LWB MHEV,Standard Sport Utility Vehicle 4WD,2024,-7000,Hybrid
+20,0,Land Rover,Range Rover P360 LWB MHEV,Standard Sport Utility Vehicle 4WD,2024,-7000,Hybrid
+21,0,Land Rover,Range Rover Sport P360 MHEV,Standard Sport Utility Vehicle 4WD,2024,-6250,Hybrid
+21,0,Land Rover,Range Rover Sport P400 MHEV,Standard Sport Utility Vehicle 4WD,2024,-6250,Hybrid
+27,0,Lexus,TX 500h AWD,Standard Sport Utility Vehicle 4WD,2024,-3000,Hybrid
+23,0,Lexus,TX 350 AWD,Standard Sport Utility Vehicle 4WD,2024,-5000,
+29,44,Alfa Romeo,Tonale eAWD,Small Sport Utility Vehicle 4WD,2024,2250,Plug-in Hybrid
+29,44,Dodge,Hornet PHEV AWD,Small Sport Utility Vehicle 4WD,2024,2250,Plug-in Hybrid
+30,41,Chrysler,Pacifica Hybrid,Minivan - 2WD,2024,2500,Plug-in Hybrid
+23,58,Jeep,Grand Cherokee 4xe,Standard Sport Utility Vehicle 4WD,2024,250,Plug-in Hybrid
+20,68,Jeep,Wrangler 4dr 4xe,Small Sport Utility Vehicle 4WD,2024,-1500,Plug-in Hybrid
+18,0,Maserati,MC20,Two Seaters,2024,-8750,
+18,0,Maserati,MC20 Spyder,Two Seaters,2024,-8750,
+17,0,Aston Martin,DB12 V8,Minicompact Cars,2024,-9750,
+16,0,Bentley,Continental GTC,Minicompact Cars,2024,-10750,
+20,0,Porsche,911 Carrera,Minicompact Cars,2024,-7000,
+20,0,Porsche,911 Carrera Cabriolet,Minicompact Cars,2024,-7000,
+21,0,Porsche,911 Carrera S,Minicompact Cars,2024,-6250,
+20,0,Porsche,911 Carrera S,Minicompact Cars,2024,-7000,
+20,0,Porsche,911 Carrera S Cabriolet,Minicompact Cars,2024,-7000,
+20,0,Porsche,911 Carrera S Cabriolet,Minicompact Cars,2024,-7000,
+20,0,Porsche,911 Carrera 4S,Minicompact Cars,2024,-7000,
+20,0,Porsche,911 Carrera 4S,Minicompact Cars,2024,-7000,
+20,0,Porsche,911 Carrera 4S Cabriolet,Minicompact Cars,2024,-7000,
+20,0,Porsche,911 Carrera 4S Cabriolet,Minicompact Cars,2024,-7000,
+20,0,Porsche,911 Carrera 4,Minicompact Cars,2024,-7000,
+20,0,Porsche,911 Carrera 4 Cabriolet,Minicompact Cars,2024,-7000,
+19,0,Porsche,911 Dakar,Minicompact Cars,2024,-7750,
+20,0,Porsche,911 Targa 4S,Minicompact Cars,2024,-7000,
+20,0,Porsche,911 Targa 4S,Minicompact Cars,2024,-7000,
+20,0,Porsche,911 Targa 4,Minicompact Cars,2024,-7000,
+19,0,Porsche,911 Carrera GTS,Minicompact Cars,2024,-7750,
+20,0,Porsche,911 Carrera GTS,Minicompact Cars,2024,-7000,
+19,0,Porsche,911 Carrera GTS Cabriolet,Minicompact Cars,2024,-7750,
+20,0,Porsche,911 Carrera GTS Cabriolet,Minicompact Cars,2024,-7000,
+19,0,Porsche,911 Carrera 4 GTS,Minicompact Cars,2024,-7750,
+19,0,Porsche,911 Carrera 4 GTS,Minicompact Cars,2024,-7750,
+19,0,Porsche,911 Carrera 4 GTS Cabriolet,Minicompact Cars,2024,-7750,
+19,0,Porsche,911 Carrera 4 GTS Cabriolet,Minicompact Cars,2024,-7750,
+19,0,Porsche,911 Targa 4 GTS,Minicompact Cars,2024,-7750,
+19,0,Porsche,911 Targa 4 GTS,Minicompact Cars,2024,-7750,
+15,0,Bentley,Continental GT,Subcompact Cars,2024,-12250,
+17,0,Bentley,Continental GT,Subcompact Cars,2024,-9750,
+22,0,Lexus,RC 300 AWD,Subcompact Cars,2024,-5500,
+23,0,Lexus,RC 350,Subcompact Cars,2024,-5000,
+22,0,Lexus,RC 350 AWD,Subcompact Cars,2024,-5500,
+25,0,Lexus,RC 300,Subcompact Cars,2024,-4000,
+19,0,Lexus,RC F,Subcompact Cars,2024,-7750,
+23,0,Genesis,G70 AWD,Compact Cars,2024,-5000,
+24,0,Genesis,G70 RWD,Compact Cars,2024,-4500,
+22,0,Lexus,IS 300 AWD,Compact Cars,2024,-5500,
+23,0,Lexus,IS 350,Compact Cars,2024,-5000,
+22,0,Lexus,IS 350 AWD,Compact Cars,2024,-5500,
+20,0,Lexus,IS 500,Compact Cars,2024,-7000,
+25,0,Lexus,IS 300,Compact Cars,2024,-4000,
+31,0,Mazda,3 4-Door 2WD,Compact Cars,2024,750,
+30,0,Mazda,3 4-Door 4WD,Compact Cars,2024,500,
+27,0,Mazda,3 4-Door 4WD,Compact Cars,2024,-500,
+27,0,Mercedes-Benz,C300 4matic,Compact Cars,2024,-3000,Hybrid
+25,0,Mercedes-Benz,AMG CLA35 4matic,Compact Cars,2024,-4000,Hybrid
+23,0,Mercedes-Benz,AMG CLA45 S 4matic,Compact Cars,2024,-5000,
+28,0,Mercedes-Benz,CLA250 4matic,Compact Cars,2024,-2500,Hybrid
+30,0,Mercedes-Benz,CLA250,Compact Cars,2024,-1750,Hybrid
+17,0,Mercedes-Benz,AMG GT 63 4matic Plus,Compact Cars,2024,-9750,
+50,0,Toyota,Corolla Hybrid,Compact Cars,2024,3750,Hybrid
+47,0,Toyota,Corolla Hybrid,Compact Cars,2024,3500,Hybrid
+48,0,Toyota,Corolla Hybrid AWD,Compact Cars,2024,3500,Hybrid
+44,0,Toyota,Corolla Hybrid AWD,Compact Cars,2024,3000,Hybrid
+35,0,Toyota,Corolla,Compact Cars,2024,1500,
+34,0,Toyota,Corolla,Compact Cars,2024,1500,
+35,0,Toyota,Corolla Hatchback,Compact Cars,2024,1500,
+33,0,Toyota,Corolla Hatchback XSE,Compact Cars,2024,1250,
+17,0,Bentley,Flying Spur,Midsize Cars,2024,-9750,
+28,0,BMW,540i xDrive Sedan,Midsize Cars,2024,-2500,Hybrid
+50,0,Hyundai,Elantra Hybrid,Midsize Cars,2024,3750,Hybrid
+54,0,Hyundai,Elantra Hybrid Blue,Midsize Cars,2024,4000,Hybrid
+25,0,Lexus,LS 500h AWD,Midsize Cars,2024,-4000,Hybrid
+22,0,Lexus,LS 500,Midsize Cars,2024,-5500,
+21,0,Lexus,LS 500 AWD,Midsize Cars,2024,-6250,
+41,0,Toyota,Crown AWD,Midsize Cars,2024,2750,Hybrid
+30,0,Toyota,Crown AWD,Midsize Cars,2024,500,Hybrid
+28,0,Hyundai,Sonata AWD,Large Cars,2024,0,
+29,0,Hyundai,Sonata FWD,Large Cars,2024,250,
+27,0,Hyundai,Sonata FWD,Large Cars,2024,-500,
+25,0,Volkswagen,Arteon 4motion,Large Cars,2024,-4000,
+24,0,Mercedes-Benz,AMG GLA35 4matic,Small Station Wagons,2024,-4500,Hybrid
+23,0,Mercedes-Benz,AMG GLB35 4matic,Midsize Station Wagons,2024,-5000,Hybrid
+26,0,Ford,Maverick FWD,Small Pickup Trucks 2WD,2024,-750,
+37,0,Ford,Maverick HEV FWD,Small Pickup Trucks 2WD,2024,2000,Hybrid
+20,0,GMC,Canyon 2WD,Small Pickup Trucks 2WD,2024,-3500,
+25,0,Ford,Maverick AWD,Small Pickup Trucks 4WD,2024,-1250,
+21,0,Ford,Maverick Tremor AWD,Small Pickup Trucks 4WD,2024,-3000,
+22,0,Ford,Ranger 2WD,Standard Pickup Trucks 2WD,2024,-2500,
+23,0,Ram,1500 HFE 2WD,Standard Pickup Trucks 2WD,2024,-2000,Hybrid
+22,0,Ford,Ranger 4WD,Standard Pickup Trucks 4WD,2024,-2500,
+17,0,Ford,Ranger RAPTOR 4WD,Standard Pickup Trucks 4WD,2024,-5750,
+28,0,Mercedes-Benz,GLA250,Special Purpose Vehicle 2WD,2024,-2500,Hybrid
+28,0,Mercedes-Benz,GLB250,Special Purpose Vehicle 2WD,2024,-2500,Hybrid
+30,0,Toyota,RAV4,Small Sport Utility Vehicle 2WD,2024,500,
+26,0,Ford,Bronco Sport 4WD,Small Sport Utility Vehicle 4WD,2024,-750,
+23,0,Ford,Bronco Sport 4WD,Small Sport Utility Vehicle 4WD,2024,-2000,
+21,0,Honda,Passport AWD,Small Sport Utility Vehicle 4WD,2024,-3000,
+20,0,Jeep,Wrangler 4dr 4WD,Small Sport Utility Vehicle 4WD,2024,-3500,
+20,0,Jeep,Wrangler 2dr 4WD,Small Sport Utility Vehicle 4WD,2024,-3500,
+38,0,Kia,Sportage Hybrid AWD,Small Sport Utility Vehicle 4WD,2024,2250,Hybrid
+43,0,Kia,Sportage Hybrid FWD,Small Sport Utility Vehicle 4WD,2024,3000,Hybrid
+25,0,Mazda,CX-5 4WD,Small Sport Utility Vehicle 4WD,2024,-1250,
+29,0,Mazda,CX-30 4WD,Small Sport Utility Vehicle 4WD,2024,250,
+25,0,Mazda,CX-30 4WD,Small Sport Utility Vehicle 4WD,2024,-1250,
+27,0,Mercedes-Benz,GLA250 4matic,Small Sport Utility Vehicle 4WD,2024,-3000,Hybrid
+27,0,Mercedes-Benz,GLB250 4matic,Small Sport Utility Vehicle 4WD,2024,-3000,Hybrid
+29,0,Toyota,RAV4 AWD,Small Sport Utility Vehicle 4WD,2024,250,
+28,0,Toyota,RAV4 AWD,Small Sport Utility Vehicle 4WD,2024,0,
+28,0,Toyota,RAV4 AWD TRD OFFROAD,Small Sport Utility Vehicle 4WD,2024,0,
+30,0,Toyota,RAV4 AWD LE,Small Sport Utility Vehicle 4WD,2024,500,
+37,0,Toyota,RAV4 Hybrid AWD Woodland Edition,Small Sport Utility Vehicle 4WD,2024,2000,Hybrid
+39,0,Toyota,RAV4 Hybrid AWD,Small Sport Utility Vehicle 4WD,2024,2250,Hybrid
+39,0,Toyota,Venza AWD,Small Sport Utility Vehicle 4WD,2024,2250,Hybrid
+16,0,Cadillac,Escalade 2WD,Standard Sport Utility Vehicle 2WD,2024,-10750,
+23,0,Cadillac,Escalade 2WD,Standard Sport Utility Vehicle 2WD,2024,-3750,Diesel
+17,0,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,2024,-5750,
+17,0,Chevrolet,Suburban 2WD,Standard Sport Utility Vehicle 2WD,2024,-5750,
+16,0,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,2024,-10750,
+16,0,Chevrolet,Suburban 2WD,Standard Sport Utility Vehicle 2WD,2024,-10750,
+24,0,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,2024,-3250,Diesel
+23,0,Chevrolet,Suburban 2WD,Standard Sport Utility Vehicle 2WD,2024,-3750,Diesel
+21,0,Dodge,Durango RWD,Standard Sport Utility Vehicle 2WD,2024,-3000,
+17,0,Dodge,Durango RWD,Standard Sport Utility Vehicle 2WD,2024,-8250,
+17,0,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,2024,-5750,
+17,0,GMC,Yukon XL 2WD,Standard Sport Utility Vehicle 2WD,2024,-5750,
+16,0,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,2024,-10750,
+16,0,GMC,Yukon XL 2WD,Standard Sport Utility Vehicle 2WD,2024,-10750,
+23,0,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,2024,-3750,Diesel
+23,0,GMC,Yukon XL 2WD,Standard Sport Utility Vehicle 2WD,2024,-3750,Diesel
+16,0,Nissan,Armada 2WD,Standard Sport Utility Vehicle 2WD,2024,-10750,
+17,0,Toyota,4Runner 2WD,Standard Sport Utility Vehicle 2WD,2024,-5750,
+16,0,Aston Martin,DBX V8,Standard Sport Utility Vehicle 4WD,2024,-10750,
+17,0,Aston Martin,DBX 707,Standard Sport Utility Vehicle 4WD,2024,-9750,
+19,0,Audi,Q8 quattro,Standard Sport Utility Vehicle 4WD,2024,-7750,Hybrid
+16,0,Cadillac,Escalade 4WD,Standard Sport Utility Vehicle 4WD,2024,-10750,
+22,0,Cadillac,Escalade 4WD,Standard Sport Utility Vehicle 4WD,2024,-4500,Diesel
+17,0,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,2024,-5750,
+16,0,Chevrolet,Suburban 4WD,Standard Sport Utility Vehicle 4WD,2024,-6500,
+16,0,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,2024,-6500,
+16,0,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,2024,-10750,
+16,0,Chevrolet,Suburban 4WD,Standard Sport Utility Vehicle 4WD,2024,-10750,
+22,0,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,2024,-4500,Diesel
+22,0,Chevrolet,Suburban 4WD,Standard Sport Utility Vehicle 4WD,2024,-4500,Diesel
+21,0,Dodge,Durango AWD,Standard Sport Utility Vehicle 4WD,2024,-3000,
+17,0,Dodge,Durango AWD,Standard Sport Utility Vehicle 4WD,2024,-8250,
+13,0,Dodge,Durango SRT AWD,Standard Sport Utility Vehicle 4WD,2024,-15250,
+15,0,Dodge,Durango SRT AWD,Standard Sport Utility Vehicle 4WD,2024,-12250,
+17,0,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,2024,-5750,
+16,0,GMC,Yukon XL 4WD,Standard Sport Utility Vehicle 4WD,2024,-6500,
+16,0,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,2024,-10750,
+16,0,GMC,Yukon XL 4WD,Standard Sport Utility Vehicle 4WD,2024,-10750,
+22,0,GMC,Yukon XL 4WD,Standard Sport Utility Vehicle 4WD,2024,-4500,Diesel
+22,0,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,2024,-4500,Diesel
+17,0,Jeep,Grand Cherokee L 4WD,Standard Sport Utility Vehicle 4WD,2024,-8250,
+19,0,Lexus,LX 600,Standard Sport Utility Vehicle 4WD,2024,-7750,
+14,0,Mercedes-Benz,G550,Standard Sport Utility Vehicle 4WD,2024,-13500,
+15,0,Nissan,Armada 4WD,Standard Sport Utility Vehicle 4WD,2024,-12250,
+17,0,Toyota,4Runner 4WD,Standard Sport Utility Vehicle 4WD,2024,-5750,
+17,0,Toyota,4Runner 4WD,Standard Sport Utility Vehicle 4WD,2024,-5750,
+87,38.9209,Audi,Q8 Sportback e-tron quattro,Standard Sport Utility Vehicle 4WD,2024,4000,EV
+73,46.1062,Audi,SQ8 e-tron (20 inch wheels),Standard Sport Utility Vehicle 4WD,2024,3250,EV
+63,53.8641,Audi,SQ8 e-tron (21/22 inch wheels),Standard Sport Utility Vehicle 4WD,2024,2500,EV
+73,46.1062,Audi,SQ8 Sportback e-tron (20 inch wheels),Standard Sport Utility Vehicle 4WD,2024,3250,EV
+63,53.8641,Audi,SQ8 Sportback e-tron (21/22 inch wheels),Standard Sport Utility Vehicle 4WD,2024,2500,EV
+96,35.2192,Chevrolet,Blazer EV AWD,Small Sport Utility Vehicle 4WD,2024,4500,EV
+67,50.5346,Chevrolet,Silverado EV,Standard Pickup Trucks 4WD,2024,2750,EV
+97,35,Genesis,Electrified G80,Midsize Cars,2024,4500,EV
+112,30,Genesis,GV60 Standard,Small Sport Utility Vehicle 2WD,2024,5000,EV
+116,29.0825,Hyundai,Kona Electric Long Range,Small Sport Utility Vehicle 2WD,2024,5250,EV
+89,38,Kia,EV9 Long Range RWD,Standard Sport Utility Vehicle 2WD,2024,4250,EV
+88,38,Kia,EV9 Standard Range RWD,Standard Sport Utility Vehicle 2WD,2024,4250,EV
+83,41,Kia,EV9 Long Range AWD,Standard Sport Utility Vehicle 4WD,2024,4000,EV
+80,42,Kia,EV9 Long Range AWD GT-Line,Standard Sport Utility Vehicle 4WD,2024,3750,EV
+137,24.5788,Lucid,Air Pure RWD with 19 inch wheels,Large Cars,2024,5750,EV
+130,25.9281,Lucid,Air Pure RWD with 20 inch wheels,Large Cars,2024,5500,EV
+105,32.1321,Lucid,Air Sapphire AWD,Large Cars,2024,5000,EV
+73,46,Mercedes-Benz,AMG EQE 4matic Plus,Midsize Cars,2024,3250,EV
+90,37,Mercedes-Benz,EQE 350 4matic,Midsize Cars,2024,4250,EV
+96,34.6491,Mercedes-Benz,EQE 350 Plus,Midsize Cars,2024,4500,EV
+96,34.6491,Mercedes-Benz,EQE 500 4matic,Midsize Cars,2024,4500,EV
+82,41,Mercedes-Benz,AMG EQS 4matic Plus,Large Cars,2024,4000,EV
+95,35.1346,Mercedes-Benz,EQS 450 4matic,Large Cars,2024,4500,EV
+96,35,Mercedes-Benz,EQS 450 Plus,Large Cars,2024,4500,EV
+96,34.8968,Mercedes-Benz,EQS 580 4matic,Large Cars,2024,4500,EV
+76,44,Mercedes-Benz,EQS 680 4matic Maybach (SUV),Standard Sport Utility Vehicle 4WD,2024,3500,EV
+80,42.2815,Porsche,Taycan 4S Performance Battery Plus,Compact Cars,2024,3750,EV
+82,41,Porsche,Taycan 4S Performance Battery,Compact Cars,2024,4000,EV
+83,40.6946,Porsche,Taycan GTS,Compact Cars,2024,4000,EV
+80,42.0951,Porsche,Taycan GTS Sport Turismo,Compact Cars,2024,3750,EV
+82,41.1859,Porsche,Taycan Performance Battery Plus,Compact Cars,2024,3750,EV
+83,40.6731,Porsche,Taycan Performance Battery,Compact Cars,2024,4000,EV
+81,41.8137,Porsche,Taycan Turbo,Compact Cars,2024,3750,EV
+75,44.5214,Porsche,Taycan Turbo S,Compact Cars,2024,3500,EV
+80,42.0106,Porsche,Taycan 4 Cross Turismo,Midsize Cars,2024,3750,EV
+79,43,Porsche,Taycan Turbo Cross Turismo,Midsize Cars,2024,3750,EV
+75,44.5214,Porsche,Taycan Turbo S Cross Turismo,Midsize Cars,2024,3500,EV
+63,53.6978,Rivian,R1S All-Terrain Quad Large (20 inch),Standard Sport Utility Vehicle 4WD,2024,2500,EV
+78,43.1676,Rolls-Royce,Spectre Black Badge (22 inch wheels),Compact Cars,2024,3750,EV
+73,45.8785,Rolls-Royce,Spectre Black Badge (23 inch wheels),Compact Cars,2024,3250,EV
+81,41.475,Rolls-Royce,Spectre (22 inch wheels),Compact Cars,2024,3750,EV
+74,45.4581,Rolls-Royce,Spectre (23 inch wheels),Compact Cars,2024,3500,EV
+104,32,Subaru,Solterra AWD,Small Sport Utility Vehicle 4WD,2024,5000,EV
+102,33,Subaru,Solterra Limited/Touring AWD,Small Sport Utility Vehicle 4WD,2024,4750,EV
+113,29.783,Volkswagen,ID.4 Pro,Small Sport Utility Vehicle 2WD,2024,5250,EV
+102,32.9685,Volkswagen,ID.4 AWD Pro,Small Sport Utility Vehicle 4WD,2024,4750,EV
+102,32.9685,Volkswagen,ID.4 AWD Pro S,Small Sport Utility Vehicle 4WD,2024,4750,EV
+75,44.8914,Vinfast,VF 9 Eco,Special Purpose Vehicle 4WD,2024,3500,EV
+69,49.0809,Vinfast,VF 9 Plus,Special Purpose Vehicle 4WD,2024,3000,EV
+19,74,Bentley,Flying Spur Hybrid,Midsize Cars,2024,-4000,Plug-in Hybrid
+27,48,BMW,330e Sedan,Compact Cars,2024,0,Plug-in Hybrid
+26,45,BMW,330e xDrive Sedan,Compact Cars,2024,-250,Plug-in Hybrid
+14,73,BMW,XM,Standard Sport Utility Vehicle 4WD,2024,-5500,Plug-in Hybrid
+17,77,Ferrari,SF90 Spider,Two Seaters,2024,-7250,Plug-in Hybrid
+18,66,Ferrari,SF90 Stradale,Two Seaters,2024,-6750,Plug-in Hybrid
+35,42,Hyundai,Tucson Plug-in Hybrid,Small Sport Utility Vehicle 4WD,2024,3000,Plug-in Hybrid
+34,43,Kia,Sorento Plug-in Hybrid,Small Sport Utility Vehicle 4WD,2024,2750,Plug-in Hybrid
+35,40,Kia,Sportage Plug-in Hybrid,Small Sport Utility Vehicle 4WD,2024,3000,Plug-in Hybrid
+36,40,Lexus,NX 450h Plus AWD,Small Sport Utility Vehicle 4WD,2024,2500,Plug-in Hybrid
+26,52,Mitsubishi,Outlander PHEV,Standard Sport Utility Vehicle 4WD,2024,1500,Plug-in Hybrid
+48,29,Toyota,Prius Prime,Midsize Cars,2024,4750,Plug-in Hybrid
+52,26,Toyota,Prius Prime SE,Midsize Cars,2024,5000,Plug-in Hybrid
+38,36,Toyota,RAV4 Prime 4WD,Small Sport Utility Vehicle 4WD,2024,3750,Plug-in Hybrid
+31,44,Volvo,S60 T8 AWD Recharge,Compact Cars,2024,1750,Plug-in Hybrid
+28,50,Volvo,XC60 T8 AWD Recharge,Small Sport Utility Vehicle 4WD,2024,750,Plug-in Hybrid
+27,55,Volvo,XC90 T8 AWD Recharge,Standard Sport Utility Vehicle 4WD,2024,0,Plug-in Hybrid
+14,0,Aston Martin,Valour,Two Seaters,2024,-13500,
+19,0,Lotus,Emira,Two Seaters,2024,-4250,
+22,0,Mercedes-Benz,AMG SL43,Two Seaters,2024,-5500,Hybrid
+16,0,Mercedes-Benz,AMG SL63 4matic Plus,Minicompact Cars,2024,-10750,
+16,0,Mercedes-Benz,AMG SL55 4matic Plus,Minicompact Cars,2024,-10750,
+22,0,Subaru,BRZ,Minicompact Cars,2024,-5500,
+25,0,Subaru,BRZ,Minicompact Cars,2024,-4000,
+22,0,Toyota,GR 86,Minicompact Cars,2024,-5500,
+24,0,Toyota,GR 86,Minicompact Cars,2024,-4500,
+18,0,Ford,Mustang,Subcompact Cars,2024,-5000,
+19,0,Ford,Mustang,Subcompact Cars,2024,-4250,
+20,0,Maserati,Grancabrio Trofeo,Subcompact Cars,2024,-7000,
+26,0,Mercedes-Benz,CLE300 4matic (Convertible),Subcompact Cars,2024,-3500,Hybrid
+26,0,Mercedes-Benz,CLE450 4matic (Convertible),Subcompact Cars,2024,-3500,Hybrid
+26,0,Mercedes-Benz,CLE450 4matic (Coupe),Subcompact Cars,2024,-3500,Hybrid
+16,0,Mercedes-Benz,AMG GT 55 4matic Plus (coupe),Subcompact Cars,2024,-10750,
+16,0,Mercedes-Benz,AMG GT 63 4matic Plus (coupe),Subcompact Cars,2024,-10750,
+25,0,Acura,TLX FWD,Compact Cars,2024,-4000,
+24,0,Acura,TLX AWD A-SPEC,Compact Cars,2024,-4500,
+21,0,Acura,TLX Type-S,Compact Cars,2024,-6250,
+23,0,Mercedes-Benz,AMG C43 4matic,Compact Cars,2024,-5000,Hybrid
+31,0,Hyundai,Elantra,Midsize Cars,2024,750,
+23,0,Hyundai,Elantra N,Midsize Cars,2024,-5000,
+24,0,Hyundai,Elantra N,Midsize Cars,2024,-4500,
+23,0,Infiniti,Q50,Midsize Cars,2024,-5000,
+22,0,Infiniti,Q50 AWD,Midsize Cars,2024,-5500,
+22,0,Infiniti,Q50 Red Sport,Midsize Cars,2024,-5500,
+22,0,Infiniti,Q50 Red Sport  AWD,Midsize Cars,2024,-5500,
+25,0,Lexus,LS 500h AWD,Midsize Cars,2024,-4000,Hybrid
+25,0,Mercedes-Benz,E450 4matic,Midsize Cars,2024,-4000,Hybrid
+27,0,Mercedes-Benz,E350 4matic,Midsize Cars,2024,-3000,Hybrid
+22,0,Subaru,WRX,Midsize Cars,2024,-5500,
+21,0,Subaru,WRX,Midsize Cars,2024,-6250,
+24,0,Honda,Civic 5Dr,Large Cars,2024,-4500,
+47,0,Hyundai,Sonata Hybrid,Large Cars,2024,3500,Hybrid
+24,0,Mercedes-Benz,S500 4matic,Large Cars,2024,-4500,Hybrid
+15,0,Mercedes-Benz,Maybach S680 4matic,Large Cars,2024,-12250,
+25,0,Mercedes-Benz,E450 4matic All-Terrain (wagon),Midsize Station Wagons,2024,-4000,Hybrid
+22,0,Chevrolet,Colorado 2WD,Small Pickup Trucks 2WD,2024,-2500,
+22,0,Toyota,Tacoma SR5/Sport/PreRunner 2WD,Small Pickup Trucks 2WD,2024,-2500,
+23,0,Toyota,Tacoma SR5/Sport/PreRunner 2WD,Small Pickup Trucks 2WD,2024,-2000,
+23,0,Toyota,Tacoma 2WD,Small Pickup Trucks 2WD,2024,-2000,
+16,0,Chevrolet,Colorado ZR2 Bison 4WD,Small Pickup Trucks 4WD,2024,-6500,
+18,0,Chevrolet,Colorado Mud Terrain Tires 4WD,Small Pickup Trucks 4WD,2024,-5000,
+17,0,Chevrolet,Colorado ZR2 4WD,Small Pickup Trucks 4WD,2024,-5750,
+20,0,Chevrolet,Colorado 4WD,Small Pickup Trucks 4WD,2024,-3500,
+16,0,GMC,Canyon AT4X AEV 4WD,Small Pickup Trucks 4WD,2024,-6500,
+18,0,GMC,Canyon Mud Terrain Tires 4WD,Small Pickup Trucks 4WD,2024,-5000,
+17,0,GMC,Canyon AT4X 4WD,Small Pickup Trucks 4WD,2024,-5750,
+20,0,Toyota,Tacoma 4WD MT,Small Pickup Trucks 4WD,2024,-3500,
+21,0,Toyota,Tacoma SR5/Sport/Off-Road/Limited 4WD,Small Pickup Trucks 4WD,2024,-3000,
+21,0,Toyota,Tacoma SR5/Sport/Off-Road/Limited 4WD,Small Pickup Trucks 4WD,2024,-3000,
+21,0,Toyota,Tacoma SR5/Sport/Off-Road/Limited 4WD,Small Pickup Trucks 4WD,2024,-3000,
+21,0,Toyota,Tacoma 4WD,Small Pickup Trucks 4WD,2024,-3000,
+19,0,Ford,F150 Pickup 2WD,Standard Pickup Trucks 2WD,2024,-4250,
+20,0,Ford,F150 Pickup 2WD,Standard Pickup Trucks 2WD,2024,-3500,
+21,0,Ford,F150 Pickup 2WD,Standard Pickup Trucks 2WD,2024,-3000,
+20,0,Ram,1500 Classic 2WD,Standard Pickup Trucks 2WD,2024,-3500,
+17,0,Ram,1500 Classic 2WD,Standard Pickup Trucks 2WD,2024,-8250,
+20,0,Toyota,Tundra 2WD,Standard Pickup Trucks 2WD,2024,-7000,
+20,0,Toyota,Tundra 2WD,Standard Pickup Trucks 2WD,2024,-7000,
+22,0,Toyota,Tundra 2WD,Standard Pickup Trucks 2WD,2024,-5500,Hybrid
+20,0,Ford,F150 Pickup 4WD,Standard Pickup Trucks 4WD,2024,-3500,
+23,0,Ford,F150 Pickup 4WD HEV,Standard Pickup Trucks 4WD,2024,-2000,Hybrid
+20,0,Ford,Ranger 4WD,Standard Pickup Trucks 4WD,2024,-3500,
+19,0,Ford,F150 Pickup 4WD,Standard Pickup Trucks 4WD,2024,-4250,
+16,0,Ford,F150 RAPTOR 4WD,Standard Pickup Trucks 4WD,2024,-6500,
+19,0,Ford,F150 Pickup 4WD,Standard Pickup Trucks 4WD,2024,-4250,
+12,0,Ford,F150 RAPTOR R 4WD,Standard Pickup Trucks 4WD,2024,-11500,
+21,0,Honda,Ridgeline AWD,Standard Pickup Trucks 4WD,2024,-3000,
+20,0,Honda,Ridgeline AWD TrailSport,Standard Pickup Trucks 4WD,2024,-3500,
+19,0,Jeep,Gladiator 4WD,Standard Pickup Trucks 4WD,2024,-4250,
+18,0,Jeep,Gladiator 4WD,Standard Pickup Trucks 4WD,2024,-5000,
+19,0,Ram,1500 Classic 4WD,Standard Pickup Trucks 4WD,2024,-4250,
+17,0,Ram,1500 Classic 4WD,Standard Pickup Trucks 4WD,2024,-8250,
+19,0,Toyota,Tundra 4WD,Standard Pickup Trucks 4WD,2024,-7750,
+20,0,Toyota,Tundra 4WD,Standard Pickup Trucks 4WD,2024,-7000,Hybrid
+19,0,Toyota,Tundra 4WD PRO,Standard Pickup Trucks 4WD,2024,-7750,Hybrid
+30,0,Ford,Escape FWD,Small Sport Utility Vehicle 2WD,2024,500,
+39,0,Ford,Escape FWD HEV,Small Sport Utility Vehicle 2WD,2024,2250,Hybrid
+24,0,Hyundai,Santa Fe FWD,Small Sport Utility Vehicle 2WD,2024,-1500,
+26,0,Kia,Sorento FWD,Small Sport Utility Vehicle 2WD,2024,-750,
+23,0,Kia,Sorento FWD,Small Sport Utility Vehicle 2WD,2024,-2000,
+25,0,Lincoln,Corsair FWD,Small Sport Utility Vehicle 2WD,2024,-1250,
+33,0,Nissan,Rogue FWD,Small Sport Utility Vehicle 2WD,2024,1250,
+32,0,Nissan,Rogue FWD SL/Platinum,Small Sport Utility Vehicle 2WD,2024,1000,
+32,0,Toyota,Corolla Cross,Small Sport Utility Vehicle 2WD,2024,1000,
+36,0,Toyota,Highlander Hybrid,Small Sport Utility Vehicle 2WD,2024,1750,Hybrid
+25,0,Toyota,Highlander,Small Sport Utility Vehicle 2WD,2024,-1250,
+24,0,Toyota,Highlander,Small Sport Utility Vehicle 2WD,2024,-1500,
+28,0,BMW,X1 xDrive28i,Small Sport Utility Vehicle 4WD,2024,-2500,
+28,0,BMW,X2 xDrive28i,Small Sport Utility Vehicle 4WD,2024,-2500,
+26,0,BMW,X2 M35i,Small Sport Utility Vehicle 4WD,2024,-3500,
+28,0,Ford,Escape AWD,Small Sport Utility Vehicle 4WD,2024,0,
+39,0,Ford,Escape AWD HEV,Small Sport Utility Vehicle 4WD,2024,2250,Hybrid
+20,0,Ford,Bronco 4WD,Small Sport Utility Vehicle 4WD,2024,-3500,
+20,0,Ford,Bronco 4WD,Small Sport Utility Vehicle 4WD,2024,-3500,
+17,0,Ford,Bronco Badlands 4WD,Small Sport Utility Vehicle 4WD,2024,-5750,
+17,0,Ford,Bronco Black Diamond 4WD,Small Sport Utility Vehicle 4WD,2024,-5750,
+18,0,Ford,Bronco Black Diamond 4WD,Small Sport Utility Vehicle 4WD,2024,-5000,
+17,0,Ford,Bronco Sasquatch 4WD,Small Sport Utility Vehicle 4WD,2024,-5750,
+18,0,Ford,Bronco Sasquatch 4WD,Small Sport Utility Vehicle 4WD,2024,-5000,
+20,0,Ford,Bronco 4WD,Small Sport Utility Vehicle 4WD,2024,-3500,
+17,0,Ford,Bronco Badlands 4WD,Small Sport Utility Vehicle 4WD,2024,-5750,
+18,0,Ford,Bronco Black Diamond 4WD,Small Sport Utility Vehicle 4WD,2024,-5000,
+17,0,Ford,Bronco Sasquatch 4WD,Small Sport Utility Vehicle 4WD,2024,-5750,
+26,0,Ford,Escape AWD,Small Sport Utility Vehicle 4WD,2024,-750,
+22,0,Hyundai,Santa Fe AWD XRT,Small Sport Utility Vehicle 4WD,2024,-2500,
+23,0,Hyundai,Santa Fe AWD,Small Sport Utility Vehicle 4WD,2024,-2000,
+25,0,Kia,Sorento AWD,Small Sport Utility Vehicle 4WD,2024,-1250,
+23,0,Kia,Sorento AWD,Small Sport Utility Vehicle 4WD,2024,-2000,
+24,0,Lincoln,Corsair AWD,Small Sport Utility Vehicle 4WD,2024,-1500,
+24,0,Lincoln,Nautilus AWD,Small Sport Utility Vehicle 4WD,2024,-1500,
+30,0,Lincoln,Nautilus HEV AWD,Small Sport Utility Vehicle 4WD,2024,500,Hybrid
+21,0,Mercedes-Benz,AMG GLC43 4matic,Small Sport Utility Vehicle 4WD,2024,-6250,Hybrid
+21,0,Mercedes-Benz,AMG GLC43 4matic Coupe,Small Sport Utility Vehicle 4WD,2024,-6250,Hybrid
+31,0,Nissan,Rogue AWD,Small Sport Utility Vehicle 4WD,2024,750,
+31,0,Nissan,Rogue AWD SL/Platinum,Small Sport Utility Vehicle 4WD,2024,750,
+30,0,Toyota,Corolla Cross AWD,Small Sport Utility Vehicle 4WD,2024,500,
+42,0,Toyota,Corolla Cross Hybrid AWD,Small Sport Utility Vehicle 4WD,2024,2750,Hybrid
+24,0,Toyota,Highlander AWD,Small Sport Utility Vehicle 4WD,2024,-1500,
+21,0,Chevrolet,Traverse Limited FWD,Standard Sport Utility Vehicle 2WD,2024,-3000,
+24,0,Ford,Explorer RWD,Standard Sport Utility Vehicle 2WD,2024,-1500,
+21,0,Ford,Explorer RWD,Standard Sport Utility Vehicle 2WD,2024,-3000,
+20,0,Ford,Explorer RWD,Standard Sport Utility Vehicle 2WD,2024,-3500,
+21,0,Lincoln,Aviator RWD,Standard Sport Utility Vehicle 2WD,2024,-3000,
+16,0,Bentley,Bentayga,Standard Sport Utility Vehicle 4WD,2024,-10750,
+16,0,Bentley,Bentayga EWB,Standard Sport Utility Vehicle 4WD,2024,-10750,
+20,0,Chevrolet,Traverse Limited AWD,Standard Sport Utility Vehicle 4WD,2024,-3500,
+23,0,Ford,Explorer AWD,Standard Sport Utility Vehicle 4WD,2024,-2000,
+20,0,Ford,Explorer AWD,Standard Sport Utility Vehicle 4WD,2024,-3500,
+20,0,Ford,Explorer AWD,Standard Sport Utility Vehicle 4WD,2024,-3500,
+21,0,Ford,Explorer Timberline AWD,Standard Sport Utility Vehicle 4WD,2024,-3000,
+15,0,Ford,Bronco Raptor 4WD,Standard Sport Utility Vehicle 4WD,2024,-7500,
+20,0,Ford,Explorer FFV AWD,Standard Sport Utility Vehicle 4WD,2024,-3500,FFV
+15,0,INEOS Automotive,Grenadier,Standard Sport Utility Vehicle 4WD,2024,-12250,
+14,0,INEOS Automotive,Grenadier Trialmaster Edition,Standard Sport Utility Vehicle 4WD,2024,-13500,
+17,0,Lexus,GX 550,Standard Sport Utility Vehicle 4WD,2024,-9750,
+20,0,Lincoln,Aviator AWD,Standard Sport Utility Vehicle 4WD,2024,-3500,
+14,0,Mercedes-Benz,AMG G63,Standard Sport Utility Vehicle 4WD,2024,-13500,
+11,0,Mercedes-Benz,AMG G63 4x4 Squared,Standard Sport Utility Vehicle 4WD,2024,-19750,
+35,0,Toyota,Highlander Hybrid AWD LTD/PLAT,Standard Sport Utility Vehicle 4WD,2024,1500,Hybrid
+35,0,Toyota,Highlander Hybrid AWD,Standard Sport Utility Vehicle 4WD,2024,1500,Hybrid
+29,0,Mazda,MX-5,Two Seaters,2024,-2250,
+29,0,Mazda,MX-5,Two Seaters,2024,-2250,
+15,0,Porsche,911 S/T,Two Seaters,2024,-12250,
+16,0,Porsche,718 Spyder RS,Two Seaters,2024,-10750,
+28,0,Mercedes-Benz,CLE300 4matic (Coupe),Subcompact Cars,2024,-2500,Hybrid
+21,0,Porsche,Panamera 4,Large Cars,2024,-6250,
+23,0,Toyota,Land Cruiser,Standard Sport Utility Vehicle 4WD,2024,-5000,Hybrid
+87,38.6225,Acura,ZDX AWD,Standard Sport Utility Vehicle 2WD,2024,4250,EV
+90,37.4374,Acura,ZDX RWD,Standard Sport Utility Vehicle 2WD,2024,4250,EV
+100,33.7302,Audi,Q4 55 e-tron quattro,Standard Sport Utility Vehicle 4WD,2024,4750,EV
+100,33.7302,Audi,Q4 Sportback 55 e-tron quattro,Standard Sport Utility Vehicle 4WD,2024,4750,EV
+89,37.981,Cadillac,LYRIQ AWD,Small Sport Utility Vehicle 4WD,2024,4250,EV
+92,36.631,Chevrolet,Blazer EV RWD,Small Sport Utility Vehicle 2WD,2024,4500,EV
+108,31.0964,Chevrolet,Equinox EV FWD,Small Sport Utility Vehicle 2WD,2024,5000,EV
+96,35.1247,Chevrolet,Equinox EV AWD,Small Sport Utility Vehicle 4WD,2024,4500,EV
+116,29.1808,Fiat,500e,Minicompact Cars,2024,5250,EV
+110,30.5327,Fiat,500e All Season,Minicompact Cars,2024,5000,EV
+70,47.9143,Ford,F-150 Lightning 4WD Extended Range,Standard Pickup Trucks 4WD,2024,3000,EV
+66,50.7071,Ford,F-150 Lightning Platinum 4WD,Standard Pickup Trucks 4WD,2024,2750,EV
+70,47.9143,Ford,F-150 Lightning PRO 4WD Extended Range,Standard Pickup Trucks 4WD,2024,3000,EV
+68,49.3643,Ford,F-150 Lightning 4WD,Standard Pickup Trucks 4WD,2024,3000,EV
+102,32.9357,Ford,Mustang Mach-E RWD,Small Sport Utility Vehicle 2WD,2024,4750,EV
+106,31.8286,Ford,Mustang Mach-E RWD Extended,Small Sport Utility Vehicle 2WD,2024,5000,EV
+91,36.9214,Ford,Mustang Mach-E AWD,Small Sport Utility Vehicle 4WD,2024,4250,EV
+99,34.1929,Ford,Mustang Mach-E AWD Extended,Small Sport Utility Vehicle 4WD,2024,4750,EV
+90,37.3571,Ford,Mustang Mach-E GT,Small Sport Utility Vehicle 4WD,2024,4250,EV
+86,39.3571,Ford,Mustang Mach-E Rally,Small Sport Utility Vehicle 4WD,2024,4000,EV
+99,33.9679,Honda,Prologue FWD,Standard Sport Utility Vehicle 2WD,2024,4750,EV
+92,36.7604,Honda,Prologue AWD Elite,Standard Sport Utility Vehicle 4WD,2024,4250,EV
+95,35.5276,Honda,Prologue AWD Touring,Standard Sport Utility Vehicle 4WD,2024,4500,EV
+118,28.5326,Hyundai,Kona Electric Standard Range,Small Sport Utility Vehicle 2WD,2024,5250,EV
+125,27,Lexus,RZ 300e (18 inch wheels),Small Sport Utility Vehicle 2WD,2024,5500,EV
+105,31.4874,Lexus,RZ 300e (20 inch wheels),Small Sport Utility Vehicle 2WD,2024,5000,EV
+107,31.1421,Lexus,RZ 450e AWD (18 inch wheels),Small Sport Utility Vehicle 4WD,2024,5000,EV
+95,36,Lexus,RZ 450e AWD (20 inch wheels),Small Sport Utility Vehicle 4WD,2024,4500,EV
+129,26.1381,Lucid,Air G Touring XR AWD with19 inch wheels,Large Cars,2024,5500,EV
+121,27.8516,Lucid,Air G Touring XR AWD with 20 inch wheels,Large Cars,2024,5250,EV
+113,29.7946,Lucid,Air G Touring XR AWD with 21 inch wheels,Large Cars,2024,5250,EV
+133,25.3039,Lucid,Air Touring AWD with 19 inch wheels,Large Cars,2024,5750,EV
+123,27.4478,Lucid,Air Touring AWD with 20 inch wheels,Large Cars,2024,5500,EV
+118,28.6247,Lucid,Air Touring AWD with 21inch wheels,Large Cars,2024,5250,EV
+82,41.2032,Maserati,Grancabrio Folgore,Subcompact Cars,2024,3750,EV
+87,38.5322,Maserati,Granturismo Folgore,Subcompact Cars,2024,4250,EV
+107,31.4691,Mercedes-Benz,EQB 250 Plus,Small Sport Utility Vehicle 2WD,2024,5000,EV
+87,38.7794,Mercedes-Benz,EQB 350 4matic,Small Sport Utility Vehicle 4WD,2024,4250,EV
+94,35.7183,Mercedes-Benz,EQE 350 Plus (SUV),Standard Sport Utility Vehicle 2WD,2024,4500,EV
+86,38.5572,Mercedes-Benz,EQS 450 Plus (SUV),Standard Sport Utility Vehicle 2WD,2024,4250,EV
+85,40,Mercedes-Benz,EQE 350 4matic (SUV),Standard Sport Utility Vehicle 4WD,2024,4000,EV
+86,38.5738,Mercedes-Benz,EQE 500 4matic (SUV),Standard Sport Utility Vehicle 4WD,2024,4250,EV
+83,41,Mercedes-Benz,EQS 450 4matic (SUV),Standard Sport Utility Vehicle 4WD,2024,4000,EV
+83,41,Mercedes-Benz,EQS 580 4matic (SUV),Standard Sport Utility Vehicle 4WD,2024,4000,EV
+81,42,Mercedes-Benz,EQS 680 4matic Maybach (SUV),Standard Sport Utility Vehicle 4WD,2024,3750,EV
+95,35.2939,Nissan,ARIYA ENGAGE e-4ORCE 63kWh,Small Station Wagons,2024,4500,EV
+101,33.2574,Nissan,ARIYA ENGAGE FWD 63kWh,Small Station Wagons,2024,4750,EV
+92,36.6389,Nissan,ARIYA ENGAGE+/EVOLVE+ e-4ORCE 87kWh,Small Station Wagons,2024,4500,EV
+98,34.3726,Nissan,ARIYA EVOLVE+/EMPOWER+ FWD 87kWh,Small Station Wagons,2024,4750,EV
+90,37.3979,Nissan,ARIYA PLATINUM+ e-4ORCE 87kWh 19in. Wheels,Small Station Wagons,2024,4250,EV
+87,38.8396,Nissan,ARIYA PLATINUM+ e-4ORCE 87kWh 20in. Wheels,Small Station Wagons,2024,4250,EV
+103,32.7108,Nissan,ARIYA VENTURE Plus FWD 87kWh,Small Station Wagons,2024,4750,EV
+78,42.7868,Porsche,Taycan 4S Cross Turismo,Midsize Cars,2024,3750,EV
+68,49.2406,Rivian,R1T All-Terrain Dual Large (20in),Standard Pickup Trucks 4WD,2024,3000,EV
+73,46.124,Rivian,R1T All-Terrain Dual Max (20in),Standard Pickup Trucks 4WD,2024,3250,EV
+65,51.6452,Rivian,R1T All-Terrain Dual Standard Plus (20in),Standard Pickup Trucks 4WD,2024,2750,EV
+68,49.2406,Rivian,R1T All-Terrain Performance Dual Large (20in),Standard Pickup Trucks 4WD,2024,3000,EV
+73,46.124,Rivian,R1T All-Terrain Performance Dual Max (20in),Standard Pickup Trucks 4WD,2024,3250,EV
+63,53.6978,Rivian,R1T All-Terrain Quad Large (20in),Standard Pickup Trucks 4WD,2024,2500,EV
+65,51.6452,Rivian,R1T AT Performance Dual Standard Plus (20in),Standard Pickup Trucks 4WD,2024,2750,EV
+78,43.2259,Rivian,R1T Dual Large (21in),Standard Pickup Trucks 4WD,2024,3750,EV
+76,44.478,Rivian,R1T Dual Large (22in),Standard Pickup Trucks 4WD,2024,3500,EV
+84,39.9444,Rivian,R1T Dual Max (21in),Standard Pickup Trucks 4WD,2024,4000,EV
+78,43.3111,Rivian,R1T Dual Max (22in),Standard Pickup Trucks 4WD,2024,3750,EV
+75,45.2041,Rivian,R1T Dual Standard (21in),Standard Pickup Trucks 4WD,2024,3500,EV
+70,48.031,Rivian,R1T Dual Standard (22in),Standard Pickup Trucks 4WD,2024,3000,EV
+77,43.8057,Rivian,R1T Dual Standard Plus (21in),Standard Pickup Trucks 4WD,2024,3500,EV
+72,46.7443,Rivian,R1T Dual Standard Plus (22in),Standard Pickup Trucks 4WD,2024,3250,EV
+78,43.2259,Rivian,R1T Performance Dual Large (21in),Standard Pickup Trucks 4WD,2024,3750,EV
+76,44.478,Rivian,R1T Performance Dual Large (22in),Standard Pickup Trucks 4WD,2024,3500,EV
+84,39.9444,Rivian,R1T Performance Dual Max (21in),Standard Pickup Trucks 4WD,2024,4000,EV
+78,43.3111,Rivian,R1T Performance Dual Max (22in),Standard Pickup Trucks 4WD,2024,3750,EV
+77,43.8057,Rivian,R1T Performance Dual Standard Plus (21in),Standard Pickup Trucks 4WD,2024,3500,EV
+72,46.7443,Rivian,R1T Performance Dual Standard Plus (22in),Standard Pickup Trucks 4WD,2024,3250,EV
+64,52.3772,Rivian,R1T Quad Large (20in),Standard Pickup Trucks 4WD,2024,2500,EV
+73,46.1441,Rivian,R1T Quad Large (21in),Standard Pickup Trucks 4WD,2024,3250,EV
+68,49.3574,Rivian,R1T Quad Large (22in),Standard Pickup Trucks 4WD,2024,3000,EV
+68,49.2406,Rivian,R1S All-Terrain Dual Large (20in),Standard Sport Utility Vehicle 4WD,2024,3000,EV
+73,46.124,Rivian,R1S All-Terrain Dual Max (20in),Standard Sport Utility Vehicle 4WD,2024,3250,EV
+65,51.6452,Rivian,R1S All-Terrain Dual Standard Plus (20in),Standard Sport Utility Vehicle 4WD,2024,2750,EV
+68,49.2406,Rivian,R1S All-Terrain Performance Dual Large (20in),Standard Sport Utility Vehicle 4WD,2024,3000,EV
+73,46.124,Rivian,R1S All-Terrain Performance Dual Max (20in),Standard Sport Utility Vehicle 4WD,2024,3250,EV
+65,51.6452,Rivian,R1S AT Performance Dual Standard Plus (20in),Standard Sport Utility Vehicle 4WD,2024,2750,EV
+78,43.2259,Rivian,R1S Dual Large (21in),Standard Sport Utility Vehicle 4WD,2024,3750,EV
+75,44.7406,Rivian,R1S Dual Large (22in),Standard Sport Utility Vehicle 4WD,2024,3500,EV
+82,40.8697,Rivian,R1S Dual Max (21in),Standard Sport Utility Vehicle 4WD,2024,4000,EV
+78,43.3111,Rivian,R1S Dual Max (22in),Standard Sport Utility Vehicle 4WD,2024,3750,EV
+75,45.2041,Rivian,R1S Dual Standard (21in),Standard Sport Utility Vehicle 4WD,2024,3500,EV
+70,48.031,Rivian,R1S Dual Standard (22in),Standard Sport Utility Vehicle 4WD,2024,3000,EV
+77,43.8057,Rivian,R1S Dual Standard Plus (21in),Standard Sport Utility Vehicle 4WD,2024,3500,EV
+72,46.7443,Rivian,R1S Dual Standard Plus (22in),Standard Sport Utility Vehicle 4WD,2024,3250,EV
+78,43.2259,Rivian,R1S Performance Dual Large (21in),Standard Sport Utility Vehicle 4WD,2024,3750,EV
+75,44.7406,Rivian,R1S Performance Dual Large (22in),Standard Sport Utility Vehicle 4WD,2024,3500,EV
+82,40.8697,Rivian,R1S Performance Dual Max (21in),Standard Sport Utility Vehicle 4WD,2024,4000,EV
+78,43.3111,Rivian,R1S Performance Dual Max (22in),Standard Sport Utility Vehicle 4WD,2024,3750,EV
+72,46.7443,Rivian,R1S Performance Dual Standard (22in),Standard Sport Utility Vehicle 4WD,2024,3250,EV
+77,43.8057,Rivian,R1S Performance Dual Standard Plus (21in),Standard Sport Utility Vehicle 4WD,2024,3500,EV
+64,52.3772,Rivian,R1S Quad Large (20in),Standard Sport Utility Vehicle 4WD,2024,2500,EV
+71,47.3963,Rivian,R1S Quad Large (21in),Standard Sport Utility Vehicle 4WD,2024,3250,EV
+68,49.3574,Rivian,R1S Quad Large (22in),Standard Sport Utility Vehicle 4WD,2024,3000,EV
+130,25.8361,Tesla,Model 3 Long Range AWD,Midsize Cars,2024,5500,EV
+132,25.4472,Tesla,Model 3 RWD,Midsize Cars,2024,5750,EV
+122,27.7036,Tesla,Model S,Large Cars,2024,5500,EV
+107,31.4651,Tesla,Model S Plaid (19in wheels),Large Cars,2024,5000,EV
+96,35.2387,Tesla,Model S Plaid (21in wheels),Large Cars,2024,4500,EV
+117,28.6981,Tesla,Model Y Long Range AWD,Small Sport Utility Vehicle 4WD,2024,5250,EV
+105,32.2142,Tesla,Model Y Performance AWD,Small Sport Utility Vehicle 4WD,2024,5000,EV
+100,33.6127,Tesla,Model X,Standard Sport Utility Vehicle 4WD,2024,4750,EV
+98,34.5286,Tesla,Model X Plaid (20in wheels),Standard Sport Utility Vehicle 4WD,2024,4500,EV
+90,37.2621,Tesla,Model X Plaid (22in wheels),Standard Sport Utility Vehicle 4WD,2024,4250,EV
+119,28.317,Toyota,bZ4X,Small Sport Utility Vehicle 2WD,2024,5250,EV
+112,30.1384,Toyota,bZ4X Limited,Small Sport Utility Vehicle 2WD,2024,5000,EV
+104,32,Toyota,bZ4X AWD,Small Sport Utility Vehicle 4WD,2024,5000,EV
+102,33,Toyota,bZ4X Limited AWD,Small Sport Utility Vehicle 4WD,2024,4750,EV
+107,31.5624,Volkswagen,ID.4,Small Sport Utility Vehicle 2WD,2024,5000,EV
+113,29.783,Volkswagen,ID.4 Pro S,Small Sport Utility Vehicle 2WD,2024,5250,EV
+107,31.5624,Volkswagen,ID.4 S,Small Sport Utility Vehicle 2WD,2024,5000,EV
+12,0,Lamborghini,Revuelto,Two Seaters,2024,-17250,Hybrid
+21,0,Lotus,Emira,Two Seaters,2024,-3000,
+23,0,Mercedes-Benz,AMG CLE53 4matic Plus (coupe),Subcompact Cars,2024,-5000,Hybrid
+30,0,Volkswagen,GLI,Compact Cars,2024,500,
+31,0,Chevrolet,Malibu,Midsize Cars,2024,750,
+21,0,Porsche,Panamera,Large Cars,2024,-6250,
+18,0,Ford,F150 Pickup Tremor 4WD,Standard Pickup Trucks 4WD,2024,-5000,
+17,0,Ford,F150 Pickup Tremor 4WD,Standard Pickup Trucks 4WD,2024,-5750,
+24,0,Toyota,Tacoma Hybrid 4WD,Standard Pickup Trucks 4WD,2024,-1500,Hybrid
+23,0,Toyota,Tacoma Hybrid 4WD,Standard Pickup Trucks 4WD,2024,-2000,Hybrid
+36,0,Hyundai,Santa Fe Hybrid FWD,Small Sport Utility Vehicle 2WD,2024,1750,Hybrid
+24,0,Buick,Envision AWD,Small Sport Utility Vehicle 4WD,2024,-1500,
+34,0,Hyundai,Santa Fe Hybrid AWD,Small Sport Utility Vehicle 4WD,2024,1500,Hybrid
+23,0,Chevrolet,Traverse FWD,Standard Sport Utility Vehicle 2WD,2024,-2000,
+23,0,GMC,Acadia FWD,Standard Sport Utility Vehicle 2WD,2024,-2000,
+21,0,Chevrolet,Traverse AWD,Standard Sport Utility Vehicle 4WD,2024,-3000,
+21,0,GMC,Acadia AWD,Standard Sport Utility Vehicle 4WD,2024,-3000,
+53,63.2681,Bugatti Rimac,Nevera,Two Seaters,2024,1500,EV
+92,36.6051,Fisker,Ocean Sport 20in,Standard Sport Utility Vehicle 2WD,2024,4500,EV
+79,42.7309,Fisker,Ocean Sport 22in,Standard Sport Utility Vehicle 2WD,2024,3750,EV
+87,38.6807,Mercedes-Benz,EQB 300 4matic,Small Sport Utility Vehicle 4WD,2024,4250,EV
+128,26.3757,Tesla,Model 3 Long Range AWD-E,Midsize Cars,2024,5500,EV
+118,28.6357,Tesla,Model Y Long Range AWD-I,Small Sport Utility Vehicle 4WD,2024,5250,EV
+120,28.0611,Tesla,Model Y Long Range RWD,Small Sport Utility Vehicle 2WD,2024,5250,EV
+120,28.0056,Tesla,Model Y RWD,Small Sport Utility Vehicle 2WD,2024,5250,EV
+21,0,Chevrolet,Colorado 2WD,Small Pickup Trucks 2WD,2024,-3000,
+20,0,Chevrolet,Colorado 4WD,Small Pickup Trucks 4WD,2024,-3500,
+78,43.0203,Acura,ZDX AWD Type S,Standard Sport Utility Vehicle 2WD,2024,3750,EV
+87,39,Dodge,Charger 2-Dr Daytona R/T AWD 18in,Large Cars,2024,4000,EV
+85,40,Dodge,Charger 2-Dr Daytona R/T AWD 20in Goodyear,Large Cars,2024,4000,EV
+98,34.5239,Dodge,Charger 2-Dr Daytona R/T AWD 20in Nexen,Large Cars,2024,4500,EV
+70,48,Dodge,Charger 2-Dr Daytona Scat Pack Track Pack AWD,Large Cars,2024,3000,EV
+78,43.3733,Dodge,Charger 2-Dr Daytona Scat Pack Track Pack AWD A/S,Large Cars,2024,3500,EV
+52,65,GMC,Hummer EV Pickup 2M20,Standard Pickup Trucks 4WD,2024,1250,EV
+47,71.7483,GMC,Hummer EV Pickup MT Tires 2M20,Standard Pickup Trucks 4WD,2024,500,EV
+51,65.9777,GMC,Hummer EV SUV 2M20,Standard Sport Utility Vehicle 4WD,2024,1000,EV
+47,71.7483,GMC,Hummer EV SUV MT Tires 2M20,Standard Sport Utility Vehicle 4WD,2024,500,EV
+97,34.6289,Jeep,Wagoneer S AWD (Falken tire),Standard Sport Utility Vehicle 4WD,2024,4500,EV
+87,39,Jeep,Wagoneer S AWD (Pirelli tire),Standard Sport Utility Vehicle 4WD,2024,4000,EV
+98,34.4628,Porsche,Macan 4 Electric,Small Sport Utility Vehicle 4WD,2024,4500,EV
+91,36.9137,Porsche,Macan Turbo Electric,Small Sport Utility Vehicle 4WD,2024,4250,EV
+137,24.6398,Tesla,Model 3 Long Range RWD,Midsize Cars,2024,5750,EV
+112,30.1017,Tesla,Model 3 Performance AWD,Midsize Cars,2024,5000,EV
+57,56,Hyundai,Nexo,Small Sport Utility Vehicle 2WD,2024,8500,FCV
+61,60,Hyundai,Nexo Blue,Small Sport Utility Vehicle 2WD,2024,8500,FCV
+65,64,Toyota,Mirai Limited,Compact Cars,2024,8500,FCV
+74,72,Toyota,Mirai XLE,Compact Cars,2024,8500,FCV
+25,58,Mazda,CX-90 4WD,Standard Sport Utility Vehicle 4WD,2024,-750,Plug-in Hybrid
