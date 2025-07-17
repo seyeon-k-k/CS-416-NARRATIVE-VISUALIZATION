@@ -120,3 +120,27 @@ d3.csv("Scene1.csv").then(data => {
       .text(type);
   });
 });
+
+
+
+// SVG2 setting
+const svg = d3.select("#scene2-vis")
+  .append("svg")
+  .attr("width", 680)  // 너비 증가: 레전드 공간 확보
+  .attr("height", 480);
+
+const margin = { top: 40, right: 40, bottom: 60, left: 60 };
+const width = 480 - margin.left - margin.right;
+const height = 480 - margin.top - margin.bottom;
+
+const chart = svg.append("g")
+  .attr("transform", `translate(${margin.left}, ${margin.top})`);
+
+// CSV file processing
+d3.csv("Scene2.csv").then(data => {
+  data.forEach(d => {
+    d.mpg = +d.comb08;
+    d.save = +d.youSaveSpend;
+    d.class = d.VClass;
+    d.type = d.atvType;
+  });
