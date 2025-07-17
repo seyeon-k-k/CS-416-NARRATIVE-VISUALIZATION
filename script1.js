@@ -19,8 +19,6 @@ d3.csv("Scene1.csv").then(data => {
     d.type = d.atvType;
   });  
 
-  console.log("Parsed data:", data.slice(0, 5));
-
   const colorMap = {
   "EV": "#1f77b4",        // 파란색
   "FCV": "#9467bd",       // 연보라색
