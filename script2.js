@@ -103,4 +103,25 @@ chart2.selectAll("circle")
   .on("mouseout", () => {
     tooltip.style("visibility", "hidden");
   });
+
+  const legendData = Object.entries(colorMap);
+    const legend = svg.append("g")
+    .attr("transform", `translate(${width + margin.left + 20}, ${margin.top})`);
+
+  legendData.forEach(([type, color], i) => {
+    const row = legend.append("g")
+      .attr("transform", `translate(0, ${i * 20})`);
+
+    row.append("rect")
+      .attr("width", 12)
+      .attr("height", 12)
+      .attr("fill", color)
+      .attr("stroke", "#000");
+
+    row.append("text")
+      .attr("x", 18)
+      .attr("y", 10)
+      .attr("font-size", "12px")
+      .text(type);
+  });
 });
