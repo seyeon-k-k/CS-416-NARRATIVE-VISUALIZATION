@@ -121,3 +121,4 @@ d3.csv("Scene1.csv").then(data => {
       .attr("font-size", "12px")
       .text(type);
   });
+});
