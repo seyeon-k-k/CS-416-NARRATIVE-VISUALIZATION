@@ -106,7 +106,7 @@ chart2.selectAll("circle")
     const legend2 = svg2.append("g")
     .attr("transform", `translate(${width2 + margin2.left + 20}, ${margin2.top})`);
 
-  legendData.forEach(([type, color], i) => {
+  legendData2.forEach(([type, color], i) => {
     const row2 = legend2.append("g")
       .attr("transform", `translate(0, ${i * 20})`);
 
