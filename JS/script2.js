@@ -64,15 +64,19 @@ d3.csv("Scene2.csv").then(data => {
     .attr("x", -height / 2)
     .attr("y", -45)
     .attr("text-anchor", "middle")
-    .text("5년 연료비 절감/비용 ($)");
+    .text("5-Year Fuel Savings ($)");
   
   chart.selectAll("circle")
     .data(data)
     .enter()
     .append("circle")
     .attr("cx", d => x2(d.mpg))
+    .attr("cy", d => y2(d.save))
+    .attr("r", 5)
+    .attr("fill", d => getColor(d.type))
+    .attr("opacity", 0.7);
 
-const tooltip = d3.select("body").append("div")
+  const tooltip = d3.select("body").append("div")
   .attr("class", "tooltip")
   .style("position", "absolute")
   .style("background", "white")
@@ -84,10 +88,11 @@ const tooltip = d3.select("body").append("div")
 
 chart.selectAll("circle")
   .on("mouseover", (event, d) => {
-    tooltip.style("visibility", "visible")
+    tooltip
       .html(`<strong>${d.make} ${d.model}</strong><br>
             MPG or MPGe: ${d.mpg}<br>
-            5-Year Fuel Savings: $${d.save}`);
+            5-Year Fuel Savings: $${d.save}`)
+      .style("visibility", "visible");
   })
   .on("mousemove", (event) => {
     tooltip.style("top", `${event.pageY - 10}px`)
@@ -96,7 +101,3 @@ chart.selectAll("circle")
   .on("mouseout", () => {
     tooltip.style("visibility", "hidden");
   });
-    .attr("cy", d => y2(d.save))
-    .attr("r", 5)
-    .attr("fill", d => getColor(d.type))
-    .attr("opacity", 0.7);
