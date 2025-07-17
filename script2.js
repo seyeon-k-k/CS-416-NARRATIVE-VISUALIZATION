@@ -1,6 +1,6 @@
 
 // SVG setting
-const svg = d3.select("#scene2-vis")
+const svg2 = d3.select("#scene2-vis")
   .append("svg")
   .attr("width", 680)  // 너비 증가: 레전드 공간 확보
   .attr("height", 480);
@@ -9,7 +9,7 @@ const margin = { top: 40, right: 40, bottom: 60, left: 60 };
 const width = 480 - margin.left - margin.right;
 const height = 480 - margin.top - margin.bottom;
 
-const chart = svg.append("g")
+const chart = svg2.append("g")
   .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
 // CSV file processing
