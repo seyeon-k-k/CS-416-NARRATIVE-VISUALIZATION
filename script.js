@@ -123,7 +123,7 @@ d3.csv("Scene1.csv").then(data => {
 
 
 // SVG2 setting
-const svg = d3.select("#scene2-vis")
+const svg2 = d3.select("#scene2-vis")
   .append("svg")
   .attr("width", 680)  // 너비 증가: 레전드 공간 확보
   .attr("height", 480);
@@ -132,7 +132,7 @@ const margin = { top: 40, right: 40, bottom: 60, left: 60 };
 const width = 480 - margin.left - margin.right;
 const height = 480 - margin.top - margin.bottom;
 
-const chart = svg.append("g")
+const chart2 = svg2.append("g")
   .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
 // CSV file processing
@@ -142,4 +142,46 @@ d3.csv("Scene2.csv").then(data => {
     d.save = +d.youSaveSpend;
     d.class = d.VClass;
     d.type = d.atvType;
+    d.make = d.make;
+    d.model = d.model;
   });
+
+  const x2 = d3.scaleLinear()
+    .domain(d3.extent(data, d => d.mpg))
+    .nice()
+    .range([0, width2]);
+  
+  chart2.append("g")
+    .attr("transform", `translate(0, ${height2})`)
+    .call(d3.axisBottom(x2));
+
+  chart2.append("text")
+    .attr("x", width2 / 2)
+    .attr("y", height2 + 40)
+    .attr("text-anchor", "middle")
+    .text("MPG or MPGe");
+
+  const y2 = d3.scaleLinear()
+    .domain(d3.extent(data, d => d.save))
+    .nice()
+    .range([height2, 0]);
+
+  chart2.append("g")
+    .call(d3.axisLeft(y2));
+
+  chart2.append("text")
+    .attr("transform", "rotate(-90)")
+    .attr("x", -height2 / 2)
+    .attr("y", -45)
+    .attr("text-anchor", "middle")
+    .text("5년 연료비 절감/비용 ($)");
+  
+  chart2.selectAll("circle")
+    .data(data)
+    .enter()
+    .append("circle")
+    .attr("cx", d => x2(d.mpg))
+    .attr("cy", d => y2(d.save))
+    .attr("r", 5)
+    .attr("fill", d => getColor(d.type))
+    .attr("opacity", 0.7);
