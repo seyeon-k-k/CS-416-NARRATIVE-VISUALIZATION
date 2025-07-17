@@ -23,6 +23,19 @@ d3.csv("Scene2.csv").then(data => {
     d.model = d.model;
   });
 
+  const colorMap = {
+  "EV": "#1f77b4",        // 파란색
+  "FCV": "#9467bd",       // 연보라색
+  "Hybrid": "#ffdd00",    // 노란색
+  "Plug-in Hybrid": "#ff7f0e", // 주황색
+  "Gas": "#d62728" // 빨간색
+  };
+
+  const getColor = (type) => {
+    if (!type) return "#d62728";
+    return colorMap[type] || "#7f7f7f";
+  };
+
   const x2 = d3.scaleLinear()
     .domain(d3.extent(data, d => d.mpg))
     .nice()
