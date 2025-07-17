@@ -23,8 +23,6 @@ d3.csv("Scene2.csv").then(data => {
     d.model = d.model;
   });
 
-  console.log("Parsed data:", data.slice(0, 5));
-
   const colorMap = {
   "EV": "#1f77b4",        // 파란색
   "FCV": "#9467bd",       // 연보라색
@@ -104,12 +102,12 @@ chart2.selectAll("circle")
     tooltip.style("visibility", "hidden");
   });
 
-  const legendData = Object.entries(colorMap);
-    const legend = svg.append("g")
-    .attr("transform", `translate(${width + margin.left + 20}, ${margin.top})`);
+  const legendData2 = Object.entries(colorMap);
+    const legend2 = svg2.append("g")
+    .attr("transform", `translate(${width2 + margin2.left + 20}, ${margin2.top})`);
 
   legendData.forEach(([type, color], i) => {
-    const row = legend.append("g")
+    const row2 = legend2.append("g")
       .attr("transform", `translate(0, ${i * 20})`);
 
     row.append("rect")
