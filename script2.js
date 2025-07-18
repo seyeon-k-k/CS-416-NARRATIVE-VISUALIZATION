@@ -110,13 +110,13 @@ chart2.selectAll("circle")
     const row2 = legend2.append("g")
       .attr("transform", `translate(0, ${i * 20})`);
 
-    row.append("rect")
+    row2.append("rect")
       .attr("width", 12)
       .attr("height", 12)
       .attr("fill", color)
       .attr("stroke", "#000");
 
-    row.append("text")
+    row2.append("text")
       .attr("x", 18)
       .attr("y", 10)
       .attr("font-size", "12px")
