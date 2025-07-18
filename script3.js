@@ -22,5 +22,6 @@ d3.csv("Scene3.csv").then(data => {
     d.make = d.make;
     d.model = d.model;
   });
+});
 
   
