@@ -28,7 +28,7 @@ d3.csv("Scene2.csv").then(data => {
   "FCV": "#9467bd",       // 연보라색
   "Hybrid": "#ffdd00",    // 노란색
   "Plug-in Hybrid": "#ff7f0e", // 주황색
-  "Gas": "#d62728" // 빨간색
+  "Gas": "#d62728", // 빨간색
   "Diesel": "#2ca02c"          // 초록색
   };
 
