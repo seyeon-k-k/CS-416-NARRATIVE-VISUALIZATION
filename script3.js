@@ -67,16 +67,6 @@ d3.csv("Scene3.csv").then(data => {
     .attr("height", d => height3 - y3(d.avgMPG))
     .attr("fill", "#1f77b4");
 
-  // 바 위에 텍스트 (옵션)
-  chart3.selectAll(".label")
-    .data(mpgByClass)
-    .enter()
-    .append("text")
-    .attr("x", d => x3(d.VClass) + x3.bandwidth() / 2)
-    .attr("y", d => y3(d.avgMPG) - 5)
-    .attr("text-anchor", "middle")
-    .style("font-size", "10px")
-    .text(d => d.avgMPG.toFixed(1));
 
   // 차트 제목
   chart3.append("text")
@@ -84,6 +74,6 @@ d3.csv("Scene3.csv").then(data => {
     .attr("y", -10)
     .attr("text-anchor", "middle")
     .style("font-size", "18px")
-    .text("Average Combined MPG by Vehicle Class");
+    .text("Average MPG and MPGe by Vehicle Class");
 });
 
