@@ -21,7 +21,25 @@ d3.csv("Scene3.csv").then(data => {
     d.type = d.atvType;
     d.make = d.make;
     d.model = d.model;
+    d.year = +d.year;
   });
+
+    // 고유한 값 추출
+  const makes = [...new Set(data.map(d => d.make))].sort();
+  const types = [...new Set(data.map(d => d.type))].sort();
+  const classes = [...new Set(data.map(d => d.class))].sort();
+  const years = [...new Set(data.map(d => d.year))].sort();
+
+  // 드롭다운에 옵션 추가
+  const makeSelect = d3.select("#make-select");
+  const typeSelect = d3.select("#type-select");
+  const classSelect = d3.select("#class-select");
+  const yearSelect = d3.select("#year-select");
+
+  makes.forEach(make => makeSelect.append("option").text(make).attr("value", make));
+  types.forEach(type => typeSelect.append("option").text(type).attr("value", type));
+  classes.forEach(cls => classSelect.append("option").text(cls).attr("value", cls));
+  years.forEach(year => yearSelect.append("option").text(year).attr("value", year));
 });
 
   
