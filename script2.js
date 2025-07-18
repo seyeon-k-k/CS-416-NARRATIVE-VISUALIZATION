@@ -2,11 +2,11 @@
 // SVG setting
 const svg2 = d3.select("#scene2-vis")
   .append("svg")
-  .attr("width", 680)  // 너비 증가: 레전드 공간 확보
+  .attr("width", 800)  // 너비 증가: 레전드 공간 확보
   .attr("height", 680);
 
 const margin2 = { top: 40, right: 40, bottom: 60, left: 60 };
-const width2 = 680 - margin2.left - margin2.right;
+const width2 = 800 - margin2.left - margin2.right;
 const height2 = 680 - margin2.top - margin2.bottom;
 
 const chart2 = svg2.append("g")
