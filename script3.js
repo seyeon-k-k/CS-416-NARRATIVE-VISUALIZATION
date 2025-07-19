@@ -117,6 +117,62 @@ yearSelect.on("change", function () {
     d.trim === selectedTrim
   );
 
+ // 기존 차트 제거 (새로 그리기 위해)
+  d3.select("#bar-chart").remove();
+
+  if (result) {
+    const chartData = [
+      { label: "MPG", value: result.mpg },
+      { label: "Saving ($)", value: result.saving },
+      { label: "CO₂ (g/mi)", value: result.co2 }
+    ];
+
+    const barWidth = 500;
+    const barHeight = 300;
+    const margin = { top: 40, right: 30, bottom: 50, left: 70 };
+    const innerWidth = barWidth - margin.left - margin.right;
+    const innerHeight = barHeight - margin.top - margin.bottom;
+
+    const svg = d3.select("#scene3-vis")
+      .append("svg")
+      .attr("id", "bar-chart")
+      .attr("width", barWidth)
+      .attr("height", barHeight);
+
+    const g = svg.append("g")
+      .attr("transform", `translate(${margin.left},${margin.top})`);
+
+    // X, Y 스케일
+    const xScale = d3.scaleBand()
+      .domain(chartData.map(d => d.label))
+      .range([0, innerWidth])
+      .padding(0.4);
+
+    const yScale = d3.scaleLinear()
+      .domain([0, d3.max(chartData, d => d.value) * 1.2])
+      .range([innerHeight, 0]);
+
+    // X축 그리기
+    g.append("g")
+      .attr("transform", `translate(0,${innerHeight})`)
+      .call(d3.axisBottom(xScale));
+
+    // Y축 그리기
+    g.append("g")
+      .call(d3.axisLeft(yScale));
+
+    // 바 그리기
+    g.selectAll(".bar")
+      .data(chartData)
+      .enter()
+      .append("rect")
+      .attr("class", "bar")
+      .attr("x", d => xScale(d.label))
+      .attr("y", d => yScale(d.value))
+      .attr("width", xScale.bandwidth())
+      .attr("height", d => innerHeight - yScale(d.value))
+      .attr("fill", "#69b3a2");
+
 
 
     
