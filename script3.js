@@ -35,7 +35,7 @@ d3.csv("Scene3.csv").then(data => {
   const yearSelect = d3.select("#year-select");
 
   makes.forEach(make => makeSelect.append("option").text(make).attr("value", make));
-  models.forEach(cls => modelSelect.append("option").text(model).attr("value", model));
+  models.forEach(model => modelSelect.append("option").text(model).attr("value", model));
   years.forEach(year => yearSelect.append("option").text(year).attr("value", year));
 });
 
