@@ -104,6 +104,24 @@ yearSelect.on("change", function () {
     );
   });
 
+  d3.select("#search-btn").on("click", function () {
+  const selectedMake = makeSelect.property("value");
+  const selectedYear = +yearSelect.property("value");
+  const selectedModel = modelSelect.property("value");
+  const selectedTrim = trimSelect.property("value");
+
+  const result = data.find(d =>
+    d.make === selectedMake &&
+    d.year === selectedYear &&
+    d.model === selectedModel &&
+    d.trim === selectedTrim
+  );
+
+
+
+    
+  }
+
 });
 
   
