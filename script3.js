@@ -117,77 +117,88 @@ d3.select("#scene3-search-btn").on("click", function () {
     d.trim === selectedTrim
   );
 
-  // 기존 차트 제거
-  d3.select("#bar-chart").remove();
+d3.select("#scene3-vis").selectAll("svg").remove(); // 기존 차트 모두 삭제
 
-  if (result) {
-    const chartData = [
-      { label: "MPG", value: result.mpg },
-      { label: "Saving ($)", value: result.saving },
-      { label: "CO₂ (g/mi)", value: result.co2 }
-    ];
+const barWidth = 300;
+const barHeight = 300;
+const margin = { top: 40, right: 30, bottom: 50, left: 70 };
+const innerWidth = barWidth - margin.left - margin.right;
+const innerHeight = barHeight - margin.top - margin.bottom;
 
-    const barWidth = 500;
-    const barHeight = 300;
-    const margin = { top: 40, right: 30, bottom: 50, left: 70 };
-    const innerWidth = barWidth - margin.left - margin.right;
-    const innerHeight = barHeight - margin.top - margin.bottom;
+const dataArr = [
+  { label: "MPG", value: result.mpg },
+  { label: "Saving ($)", value: result.saving },
+  { label: "CO₂ (g/mi)", value: result.co2 }
+];
 
-    const svg = d3.select("#scene3-vis")
-      .append("svg")
-      .attr("id", "bar-chart")
-      .attr("width", barWidth)
-      .attr("height", barHeight);
+dataArr.forEach((d, i) => {
+  const svg = d3.select("#scene3-vis")
+    .append("svg")
+    .attr("id", `bar-chart-${i}`)
+    .attr("width", barWidth)
+    .attr("height", barHeight)
+    .style("display", "inline-block")  // 가로로 나란히 표시
+    .style("vertical-align", "top")
+    .style("margin-right", "20px");   // 차트 사이 간격
 
-    const g = svg.append("g")
-      .attr("transform", `translate(${margin.left},${margin.top})`);
+  const g = svg.append("g")
+    .attr("transform", `translate(${margin.left},${margin.top})`);
 
-    // y축 도메인: 최소값과 최대값 중 0도 포함하도록 설정
-    const minVal = d3.min(chartData, d => d.value);
-    const maxVal = d3.max(chartData, d => d.value);
-    const yScale = d3.scaleLinear()
-      .domain([Math.min(0, minVal), Math.max(0, maxVal)])
-      .range([innerHeight, 0]);
+  // y축 스케일 (0 포함)
+  const minVal = Math.min(0, d.value);
+  const maxVal = Math.max(0, d.value);
+  const yScale = d3.scaleLinear()
+    .domain([minVal, maxVal])
+    .range([innerHeight, 0]);
 
-    const xScale = d3.scaleBand()
-      .domain(chartData.map(d => d.label))
-      .range([0, innerWidth])
-      .padding(0.4);
+  // x축 스케일 (하나짜리라 그냥 0~innerWidth)
+  const xScale = d3.scaleBand()
+    .domain([d.label])
+    .range([0, innerWidth])
+    .padding(0.4);
 
-    // 0 위치 (기준선)
-    const zeroY = yScale(0);
+  const zeroY = yScale(0);
 
-    // X축 그리기
-    g.append("g")
-      .attr("transform", `translate(0,${innerHeight})`)
-      .call(d3.axisBottom(xScale));
+  // X축 그리기
+  g.append("g")
+    .attr("transform", `translate(0,${innerHeight})`)
+    .call(d3.axisBottom(xScale));
 
-    // Y축 그리기
-    g.append("g")
-      .call(d3.axisLeft(yScale));
+  // Y축 그리기
+  g.append("g")
+    .call(d3.axisLeft(yScale));
 
-    // 막대 그리기 (음수는 아래로)
-    g.selectAll(".bar")
-      .data(chartData)
-      .enter()
-      .append("rect")
-      .attr("class", "bar")
-      .attr("x", d => xScale(d.label))
-      .attr("width", xScale.bandwidth())
-      .attr("y", d => d.value >= 0 ? yScale(d.value) : zeroY)
-      .attr("height", d => Math.abs(yScale(d.value) - zeroY))
-      .attr("fill", d => d.value >= 0 ? "#69b3a2" : "#d95f02"); // 양수는 초록, 음수는 주황
+  // 막대 그리기 (음수는 아래로)
+  g.selectAll(".bar")
+    .data([d])
+    .enter()
+    .append("rect")
+    .attr("class", "bar")
+    .attr("x", xScale(d.label))
+    .attr("width", xScale.bandwidth())
+    .attr("y", d.value >= 0 ? yScale(d.value) : zeroY)
+    .attr("height", Math.abs(yScale(d.value) - zeroY))
+    .attr("fill", d.value >= 0 ? "#69b3a2" : "#d95f02");
 
-    // 기준선(0) 표시 (선 긋기)
-    g.append("line")
-      .attr("x1", 0)
-      .attr("x2", innerWidth)
-      .attr("y1", zeroY)
-      .attr("y2", zeroY)
-      .attr("stroke", "black")
-      .attr("stroke-width", 1);
+  // 0 기준선 표시
+  g.append("line")
+    .attr("x1", 0)
+    .attr("x2", innerWidth)
+    .attr("y1", zeroY)
+    .attr("y2", zeroY)
+    .attr("stroke", "black")
+    .attr("stroke-width", 1);
+
+  // 차트 제목 (레이블)
+  g.append("text")
+    .attr("x", innerWidth / 2)
+    .attr("y", -10)
+    .attr("text-anchor", "middle")
+    .style("font-weight", "bold")
+    .text(d.label);
   }
+}
 });
-});
+
 
   
