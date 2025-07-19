@@ -13,7 +13,7 @@ body {
   border-bottom: 2px solid #ccc;
 }
 
-#scene1-vis, #scene2-vis {
+#scene1-vis, #scene2-vis, #scene3-vis {
   width: 1400px;      /* 원하는 너비 설정 */
   height: 720px;     /* 높이 꼭 지정 */
 
