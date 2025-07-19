@@ -104,7 +104,7 @@ yearSelect.on("change", function () {
     );
   });
 
-  d3.select("#search-btn").on("click", function () {
+d3.select("#scene3-search-btn").on("click", function () {
   const selectedMake = makeSelect.property("value");
   const selectedYear = +yearSelect.property("value");
   const selectedModel = modelSelect.property("value");
@@ -117,8 +117,8 @@ yearSelect.on("change", function () {
     d.trim === selectedTrim
   );
 
- // 기존 차트 제거 (새로 그리기 위해)
-  d3.select("#bar-chart").remove();
+  // 기존 차트 제거
+d3.select("#bar-chart").remove(); 
 
   if (result) {
     const chartData = [
@@ -172,10 +172,6 @@ yearSelect.on("change", function () {
       .attr("width", xScale.bandwidth())
       .attr("height", d => innerHeight - yScale(d.value))
       .attr("fill", "#69b3a2");
-
-
-
-    
   }
 
 });
