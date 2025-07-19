@@ -22,23 +22,20 @@ d3.csv("Scene3.csv").then(data => {
     d.make = d.make;
     d.model = d.model;
     d.year = +d.year;
+    d.trim = d.trany;
   });
 
 // 전체 select 요소 선택
 const makeSelect = d3.select("#make-select");
 const yearSelect = d3.select("#year-select");
 const modelSelect = d3.select("#model-select");
+const trimSelect = d3.select("#trim-select");
 
 //초기 드롭다운
-makeSelect.append("option")
-  .text("Select Make")
-  .attr("value", "");
-yearSelect.append("option")
-  .text("Select Year")
-  .attr("value", "");
-modelSelect.append("option")
-  .text("Select Model")
-  .attr("value", "");
+  makeSelect.append("option").text("Select Make").attr("value", "");
+  yearSelect.append("option").text("Select Year").attr("value", "");
+  modelSelect.append("option").text("Select Model").attr("value", "");
+  trimSelect.append("option").text("Select Trim").attr("value", "");
 
 // make 드롭다운 채우기
 const makes = [...new Set(data.map(d => d.make))].sort();
@@ -84,6 +81,28 @@ yearSelect.on("change", function () {
     modelSelect.append("option").text(model).attr("value", model)
   );
 });
+  // model 선택 시 trim 옵션 업데이트
+  modelSelect.on("change", function () {
+    const selectedMake = makeSelect.property("value");
+    const selectedYear = +yearSelect.property("value");
+    const selectedModel = this.value;
+
+    const filteredTrims = [...new Set(
+      data
+        .filter(d =>
+          d.make === selectedMake &&
+          d.year === selectedYear &&
+          d.model === selectedModel
+        )
+        .map(d => d.trim)
+    )].sort();
+
+    trimSelect.selectAll("option").remove();
+    trimSelect.append("option").text("Select Trim").attr("value", "");
+    filteredTrims.forEach(trim =>
+      trimSelect.append("option").text(trim).attr("value", trim)
+    );
+  });
 
 });
 
