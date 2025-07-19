@@ -26,7 +26,7 @@ d3.csv("Scene3.csv").then(data => {
 
     // 고유한 값 추출
   const makes = [...new Set(data.map(d => d.make))].sort();
-const types = [...new Set(data.map(d => d.type || "Gas"))].sort();
+const types = [...new Set(data.map(d => d.type))].sort();
   const classes = [...new Set(data.map(d => d.class))].sort();
   const years = [...new Set(data.map(d => d.year))].sort();
 
