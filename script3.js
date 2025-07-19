@@ -118,7 +118,7 @@ d3.select("#scene3-search-btn").on("click", function () {
   );
 
   // 기존 차트 제거
-d3.select("#bar-chart").remove(); 
+  d3.select("#bar-chart").remove();
 
   if (result) {
     const chartData = [
@@ -142,15 +142,20 @@ d3.select("#bar-chart").remove();
     const g = svg.append("g")
       .attr("transform", `translate(${margin.left},${margin.top})`);
 
-    // X, Y 스케일
+    // y축 도메인: 최소값과 최대값 중 0도 포함하도록 설정
+    const minVal = d3.min(chartData, d => d.value);
+    const maxVal = d3.max(chartData, d => d.value);
+    const yScale = d3.scaleLinear()
+      .domain([Math.min(0, minVal), Math.max(0, maxVal)])
+      .range([innerHeight, 0]);
+
     const xScale = d3.scaleBand()
       .domain(chartData.map(d => d.label))
       .range([0, innerWidth])
       .padding(0.4);
 
-    const yScale = d3.scaleLinear()
-      .domain([0, d3.max(chartData, d => d.value) * 1.2])
-      .range([innerHeight, 0]);
+    // 0 위치 (기준선)
+    const zeroY = yScale(0);
 
     // X축 그리기
     g.append("g")
@@ -161,19 +166,27 @@ d3.select("#bar-chart").remove();
     g.append("g")
       .call(d3.axisLeft(yScale));
 
-    // 바 그리기
+    // 막대 그리기 (음수는 아래로)
     g.selectAll(".bar")
       .data(chartData)
       .enter()
       .append("rect")
       .attr("class", "bar")
       .attr("x", d => xScale(d.label))
-      .attr("y", d => yScale(d.value))
       .attr("width", xScale.bandwidth())
-      .attr("height", d => innerHeight - yScale(d.value))
-      .attr("fill", "#69b3a2");
-  }
+      .attr("y", d => d.value >= 0 ? yScale(d.value) : zeroY)
+      .attr("height", d => Math.abs(yScale(d.value) - zeroY))
+      .attr("fill", d => d.value >= 0 ? "#69b3a2" : "#d95f02"); // 양수는 초록, 음수는 주황
 
+    // 기준선(0) 표시 (선 긋기)
+    g.append("line")
+      .attr("x1", 0)
+      .attr("x2", innerWidth)
+      .attr("y1", zeroY)
+      .attr("y2", zeroY)
+      .attr("stroke", "black")
+      .attr("stroke-width", 1);
+  }
 });
 });
 
