@@ -29,6 +29,17 @@ const makeSelect = d3.select("#make-select");
 const yearSelect = d3.select("#year-select");
 const modelSelect = d3.select("#model-select");
 
+//초기 드롭다운
+makeSelect.append("option")
+  .text("Select Make")
+  .attr("value", "");
+yearSelect.append("option")
+  .text("Select Year")
+  .attr("value", "");
+modelSelect.append("option")
+  .text("Select Model")
+  .attr("value", "");
+
 // make 드롭다운 채우기
 const makes = [...new Set(data.map(d => d.make))].sort();
 makes.forEach(make => makeSelect.append("option").text(make).attr("value", make));
