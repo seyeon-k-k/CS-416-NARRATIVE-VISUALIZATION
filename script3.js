@@ -198,6 +198,8 @@ dataArr.forEach((d, i) => {
     .text(d.label);
   }
 }
+}
+                          
 });
 
 
