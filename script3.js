@@ -175,5 +175,6 @@ d3.select("#bar-chart").remove();
   }
 
 });
+});
 
   
