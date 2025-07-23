@@ -72,7 +72,38 @@
   <button id="nextBtn" style="padding: 10px 20px; font-size: 18px;">Next</button>
 </div>
 
-  
+  <script>
+      const scenes = document.querySelectorAll('.scene');
+      let currentScene = 0;
+
+      function showScene(index) {
+      scenes.forEach((scene, i) => {
+      scene.style.display = (i === index) ? 'block' : 'none';
+    });
+
+    // 버튼 상태 업데이트
+    document.getElementById('prevBtn').disabled = index === 0;
+    document.getElementById('nextBtn').disabled = index === scenes.length - 1;
+  }
+
+  document.getElementById('prevBtn').addEventListener('click', () => {
+    if (currentScene > 0) {
+      currentScene--;
+      showScene(currentScene);
+    }
+  });
+
+  document.getElementById('nextBtn').addEventListener('click', () => {
+    if (currentScene < scenes.length - 1) {
+      currentScene++;
+      showScene(currentScene);
+    }
+  });
+
+  // 초기 화면 설정
+  showScene(currentScene);
+    
+  </script>
 
   <script src="script1.js"></script>
   <script src="script2.js"></script>
