@@ -13,6 +13,7 @@ const chart3 = svg3.append("g")
 // CSV file processing
 d3.csv("Scene3.csv").then(data => {
   data.forEach(d => {
+    d.hpv = +d.hpv;
     d.saving = +d.youSaveSpend;
     d.co2 = +d.co2;
     d.mpg = +d.comb08;
