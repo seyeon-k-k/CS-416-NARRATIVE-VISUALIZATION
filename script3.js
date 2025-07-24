@@ -214,11 +214,11 @@ d3.csv("Scene3.csv").then(data => {
         .enter()
         .append("rect")
         .attr("class", "bar")
-        .attr("x", xScale(d.category))
+        .attr("x", v => xScale(v.category))
         .attr("width", xScale.bandwidth())
-        .attr("y", d.value >= 0 ? yScale(d.value) : zeroY)
-        .attr("height", Math.abs(yScale(d.value) - zeroY))
-        .attr("fill", v => v.category === "Selected" ? "#69b3a2" : "#d95f02");
+        .attr("y", v => v.value >= 0 ? yScale(v.value) : zeroY)
+        .attr("height", v => Math.abs(yScale(v.value) - zeroY))
+        .attr("fill", v => v.category === "Selected" ? "#f78fb3" : "#cccccc");
 
       // 0 기준선 표시
       g.append("line")
