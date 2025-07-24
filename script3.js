@@ -163,7 +163,7 @@ d3.csv("Scene3.csv").then(data => {
     ]
   },
   {
-    label: "Hose Power ($)",
+    label: "Hose Power",
     values: [
       { category: "Selected", value: result.hpv },
       { category: "Avg", value: avg.hpv }
@@ -221,7 +221,7 @@ d3.csv("Scene3.csv").then(data => {
         .attr("class", "bar")
         .attr("x", v => xScale(v.category))
         .attr("width", xScale.bandwidth())
-        .attr("y", v => v.value >= 0 ? yScale(v.value) : zeroY)
+        .attr("y", v => Math.min(yScale(v.value), zeroY))
         .attr("height", v => Math.abs(yScale(v.value) - zeroY))
         .attr("fill", v => v.category === "Selected" ? "#f78fb3" : "#cccccc");
 
