@@ -141,8 +141,8 @@ d3.csv("Scene3.csv").then(data => {
 
     if (!result) return; // 결과 없으면 종료
 
-    const barWidth = 300;
-    const barHeight = 300;
+    const barWidth = 350;
+    const barHeight = 500;
     const margin = { top: 40, right: 30, bottom: 50, left: 70 };
     const innerWidth = barWidth - margin.left - margin.right;
     const innerHeight = barHeight - margin.top - margin.bottom;
