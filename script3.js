@@ -190,8 +190,9 @@ d3.csv("Scene3.csv").then(data => {
         .attr("transform", `translate(${margin.left},${margin.top})`);
 
       // y축 스케일 (0 포함)
-      const yMin = Math.min(0, d3.min(d.values, v => v.value));
-      const yMax = d3.max(d.values, v => v.value);
+      const values = d.values.map(v => v.value);
+      const yMin = Math.min(0, d3.min(values) * 0.9);
+      const yMax = d3.max(values) * 1.1;
       const yScale = d3.scaleLinear()
       .domain([yMin, yMax])
       .range([innerHeight, 0]);
