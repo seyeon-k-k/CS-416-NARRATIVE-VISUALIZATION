@@ -124,6 +124,18 @@ d3.csv("Scene3.csv").then(data => {
       d.trim === selectedTrim
     );
 
+    const comparisonGroup = data.filter(d =>
+      d.year === selectedYear &&
+      d.type === result.type &&
+      d.class === result.class
+    );
+
+    const avg = {
+      mpg: d3.mean(comparisonGroup, d => d.mpg),
+      saving: d3.mean(comparisonGroup, d => d.saving),
+      horsepower: d3.mean(comparisonGroup, d => d.hpv)
+    };
+
     d3.select("#scene3-vis").selectAll("svg").remove(); // 기존 차트 모두 삭제
 
     if (!result) return; // 결과 없으면 종료
@@ -135,9 +147,28 @@ d3.csv("Scene3.csv").then(data => {
     const innerHeight = barHeight - margin.top - margin.bottom;
 
     const dataArr = [
-      { label: "MPG", value: result.mpg },
-      { label: "Saving ($)", value: result.saving },
-      { label: "CO₂ (g/mi)", value: result.co2 }
+  {
+    label: "MPG",
+    values: [
+      { category: "Selected", value: result.mpg },
+      { category: "Avg", value: avg.mpg }
+    ]
+  },
+  {
+    label: "Saving ($)",
+    values: [
+      { category: "Selected", value: result.saving },
+      { category: "Avg", value: avg.saving }
+    ]
+  },
+  {
+    label: "Hose Power ($)",
+    values: [
+      { category: "Selected", value: result.hpv },
+      { category: "Avg", value: avg.hpv }
+    ]
+  },
+
     ];
 
     dataArr.forEach((d, i) => {
@@ -154,17 +185,17 @@ d3.csv("Scene3.csv").then(data => {
         .attr("transform", `translate(${margin.left},${margin.top})`);
 
       // y축 스케일 (0 포함)
-      const minVal = Math.min(0, d.value);
-      const maxVal = Math.max(0, d.value);
+      const yMin = Math.min(0, d3.min(d.values, v => v.value));
+      const yMax = d3.max(d.values, v => v.value);
       const yScale = d3.scaleLinear()
-        .domain([minVal, maxVal])
-        .range([innerHeight, 0]);
+      .domain([yMin, yMax])
+      .range([innerHeight, 0]);
 
-      // x축 스케일 (하나짜리라 그냥 0~innerWidth)
-      const xScale = d3.scaleBand()
-        .domain([d.label])
-        .range([0, innerWidth])
-        .padding(0.4);
+      // x축 스케일
+    const xScale = d3.scaleBand()
+    .domain(d.values.map(v => v.category))
+    .range([0, innerWidth])
+    .padding(0.4);
 
       const zeroY = yScale(0);
 
@@ -179,15 +210,15 @@ d3.csv("Scene3.csv").then(data => {
 
       // 막대 그리기 (음수는 아래로)
       g.selectAll(".bar")
-        .data([d])
+        .data(d.values)
         .enter()
         .append("rect")
         .attr("class", "bar")
-        .attr("x", xScale(d.label))
+        .attr("x", xScale(d.category))
         .attr("width", xScale.bandwidth())
         .attr("y", d.value >= 0 ? yScale(d.value) : zeroY)
         .attr("height", Math.abs(yScale(d.value) - zeroY))
-        .attr("fill", d.value >= 0 ? "#69b3a2" : "#d95f02");
+        .attr("fill", v => v.category === "Selected" ? "#69b3a2" : "#d95f02");
 
       // 0 기준선 표시
       g.append("line")
