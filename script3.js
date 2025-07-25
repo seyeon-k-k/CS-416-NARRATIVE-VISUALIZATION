@@ -209,6 +209,9 @@ d3.csv("Scene3.csv").then(data => {
       g.append("g")
         .attr("transform", `translate(0,${innerHeight})`)
         .call(d3.axisBottom(xScale));
+        .selectAll("text")  // <-- 축 레이블 선택
+        .style("font-size", "14px")  // <-- 글씨 크기 변경
+        .style("font-weight", "bold");
 
       // Y축 그리기
       g.append("g")
