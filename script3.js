@@ -149,7 +149,6 @@ d3.csv("Scene3.csv").then(data => {
 
     const dataArr = [
   {
-    {
     label: "Horse Power",
     values: [
       { category: "Selected", value: result.hpv },
