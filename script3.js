@@ -149,17 +149,17 @@ d3.csv("Scene3.csv").then(data => {
 
     const dataArr = [
   {
-    label: "MPG",
-    values: [
-      { category: "Selected", value: result.mpg },
-      { category: "Avg", value: avg.mpg }
-    ]
-  },
-  {
+    {
     label: "Horse Power",
     values: [
       { category: "Selected", value: result.hpv },
       { category: "Avg", value: avg.hpv }
+    ]
+  },
+    label: "MPG",
+    values: [
+      { category: "Selected", value: result.mpg },
+      { category: "Avg", value: avg.mpg }
     ]
   },
   {
