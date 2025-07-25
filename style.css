@@ -29,6 +29,10 @@ body {
 
 }
 
+#scene2-class-buttons button:hover {
+  background-color: #f0f0f0;  /* 마우스 올렸을 때 연한 회색 */
+}
+
 .scene {
   margin-bottom: 50px;
 }
