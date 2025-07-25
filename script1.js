@@ -13,6 +13,15 @@ const chart = svg.append("g")
 
 // CSV file processing
 d3.csv("Scene1.csv").then(data => {
+
+  svg.append("text")
+    .attr("x", 800 / 2)
+    .attr("y", 20)
+    .attr("text-anchor", "middle")
+    .attr("font-size", "18px")
+    .attr("font-weight", "bold")
+    .text("2024 Horsepower vs. MPG");
+  
   data.forEach(d => {
     d.mpg = +d.comb08;
     d.horsepower = +d.hpv;
