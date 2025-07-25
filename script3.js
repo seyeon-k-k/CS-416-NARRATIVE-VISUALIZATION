@@ -25,6 +25,18 @@ d3.csv("Scene3.csv").then(data => {
     d.trim = d.trany;
   });
 
+  // tooltip3 생성 위치는 여기 (데이터 로드 후 바로)
+  const tooltip3 = d3.select("body").append("div")
+    .attr("class", "tooltip3")
+    .style("position", "absolute")
+    .style("background", "white")
+    .style("padding", "8px")
+    .style("border", "1px solid #ccc")
+    .style("border-radius", "4px")
+    .style("pointer-events", "none") // 툴팁 위 마우스 이벤트 무시
+    .style("font-size", "14px")
+    .style("visibility", "hidden");
+
   // 전체 select 요소 선택
   const makeSelect = d3.select("#make-select");
   const yearSelect = d3.select("#year-select");
@@ -213,6 +225,20 @@ d3.csv("Scene3.csv").then(data => {
         .attr("y", v => yScale(Math.abs(v.value)))  // 절대값 기준 y 위치
         .attr("height", v => innerHeight - yScale(Math.abs(v.value)))  // 절대값 기준 높이
         .attr("fill", v => v.category === "Selected" ? "#ff944d" : "#cccccc");
+        .on("mouseover", (event, v) => {
+          tooltip3.style("visibility", "visible")
+            .html(`
+              <strong>${d.label} - ${v.category}</strong><br/>
+              Value: ${v.value.toFixed(2)}
+            `);
+        })
+        .on("mousemove", (event) => {
+          tooltip3.style("top", (event.pageY + 10) + "px")
+            .style("left", (event.pageX + 10) + "px");
+        })
+        .on("mouseout", () => {
+          tooltip3.style("visibility", "hidden");
+        });
 
       // 0 기준선 표시
       g.append("line")
