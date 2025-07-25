@@ -123,4 +123,28 @@ chart2.selectAll("circle")
       .attr("font-size", "12px")
       .text(type);
   });
+  
+  d3.selectAll("#scene2-class-buttons button").on("click", function () {
+    const selectedClass = d3.select(this).attr("data-class");
+
+    // 모든 버튼 초기화
+    d3.selectAll("#scene2-class-buttons button")
+      .style("background-color", "white")
+      .style("color", "black");
+
+    // 클릭된 버튼 강조
+    d3.select(this)
+      .style("background-color", "#d3d3d3")
+      .style("color", "black");
+
+    // 점(circle) 업데이트: 해당 클래스만 강조
+    svg2.selectAll("circle")
+      .transition()
+      .duration(500)
+      .style("opacity", d => d.class === selectedClass ? 1 : 0.4)
+      .attr("r", d => d.class === selectedClass ? 8 : 4);
+  });
+
+
+  
 });
