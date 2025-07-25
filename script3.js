@@ -155,6 +155,7 @@ d3.csv("Scene3.csv").then(data => {
       { category: "Avg", value: avg.hpv }
     ]
   },
+  {
     label: "MPG",
     values: [
       { category: "Selected", value: result.mpg },
