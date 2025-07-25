@@ -134,7 +134,7 @@ d3.csv("Scene3.csv").then(data => {
     const avg = {
       mpg: d3.mean(comparisonGroup, d => d.mpg),
       saving: d3.mean(comparisonGroup, d => d.saving),
-      horsepower: d3.mean(comparisonGroup, d => d.hpv)
+      hpv: d3.mean(comparisonGroup, d => d.hpv)
     };
 
     d3.select("#scene3-vis").selectAll("svg").remove(); // 기존 차트 모두 삭제
