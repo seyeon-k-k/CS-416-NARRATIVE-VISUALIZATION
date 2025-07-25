@@ -1,7 +1,7 @@
 const svg3 = d3.select("#scene3-vis")
   .append("svg")
-  .attr("width", 1200)  // 너비 증가: 레전드 공간 확보
-  .attr("height", 680);
+  .attr("width", 1000)  // 너비 증가: 레전드 공간 확보
+  .attr("height", 480);
 
 const margin3 = { top: 40, right: 120, bottom: 60, left: 60 };
 const width3 = 800 - margin3.left - margin3.right;
