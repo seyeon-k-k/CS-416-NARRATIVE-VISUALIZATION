@@ -14,6 +14,15 @@ const chart2 = svg2.append("g")
 
 // CSV file processing
 d3.csv("Scene2.csv").then(data => {
+
+  svg2.append("text")
+  .attr("x", 800 / 2)
+  .attr("y", 20)
+  .attr("text-anchor", "middle")
+  .attr("font-size", "18px")
+  .attr("font-weight", "bold")
+  .text("2024 Fuel Efficiency vs. 5-Year Fuel Savings");
+  
   data.forEach(d => {
     d.mpg = +d.comb08;
     d.save = +d.youSaveSpend;
