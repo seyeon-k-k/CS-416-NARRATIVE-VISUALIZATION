@@ -1,4 +1,9 @@
 
+#intro {
+    text-align: center;           /* 가운데 정렬 */
+    padding: 60px 20px;           /* 여백 추가 */
+  }
+
 body {
   font-family: sans-serif;
   margin: 0;
