@@ -216,7 +216,7 @@ d3.csv("Scene3.csv").then(data => {
         .attr("width", xScale.bandwidth())
         .attr("y", v => yScale(Math.abs(v.value)))  // 절대값 기준 y 위치
         .attr("height", v => innerHeight - yScale(Math.abs(v.value)))  // 절대값 기준 높이
-        .attr("fill", v => v.category === "Selected" ? "#f78fb3" : "#cccccc");
+        .attr("fill", v => v.category === "Selected" ? "#ff944d" : "#cccccc");
 
       // 0 기준선 표시
       g.append("line")
