@@ -164,10 +164,6 @@ d3.csv("Scene3.csv").then(data => {
   }
     ];
 
-    console.log("result:", result);
-    console.log("avg:", avg);
-    console.log("dataArr:", dataArr);
-
     dataArr.forEach((d, i) => {
       const svg = d3.select("#scene3-vis")
         .append("svg")
