@@ -156,20 +156,19 @@ d3.csv("Scene3.csv").then(data => {
     ]
   },
   {
-    label: "Saving ($)",
-    values: [
-      { category: "Selected", value: result.saving },
-      { category: "Avg", value: avg.saving }
-    ]
-  },
-  {
-    label: "Hose Power",
+    label: "Horse Power",
     values: [
       { category: "Selected", value: result.hpv },
       { category: "Avg", value: avg.hpv }
     ]
   },
-
+  {
+    label: "Saving ($)",
+    values: [
+      { category: "Selected", value: result.saving },
+      { category: "Avg", value: avg.saving }
+    ]
+  }
     ];
 
     console.log("result:", result);
