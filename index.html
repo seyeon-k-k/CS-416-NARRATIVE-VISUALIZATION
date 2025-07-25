@@ -90,6 +90,7 @@
     if (currentScene > 0) {
       currentScene--;
       showScene(currentScene);
+      window.scrollTo({ top: 0, behavior: 'smooth' }); // 맨 위로 부드럽게 스크롤
     }
   });
 
