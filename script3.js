@@ -224,13 +224,10 @@ d3.csv("Scene3.csv").then(data => {
         .attr("width", xScale.bandwidth())
         .attr("y", v => yScale(Math.abs(v.value)))  // 절대값 기준 y 위치
         .attr("height", v => innerHeight - yScale(Math.abs(v.value)))  // 절대값 기준 높이
-        .attr("fill", v => v.category === "Selected" ? "#ff944d" : "#cccccc");
+        .attr("fill", v => v.category === "Selected" ? "#ff944d" : "#cccccc")
         .on("mouseover", (event, v) => {
           tooltip3.style("visibility", "visible")
-            .html(`
-              <strong>${d.label} - ${v.category}</strong><br/>
-              Value: ${v.value.toFixed(2)}
-            `);
+          .html(`<strong>${d.label} - ${v.category}</strong><br/> Value: ${v.value.toFixed(2)}`);
         })
         .on("mousemove", (event) => {
           tooltip3.style("top", (event.pageY + 10) + "px")
