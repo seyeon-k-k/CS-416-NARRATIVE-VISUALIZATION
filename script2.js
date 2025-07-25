@@ -141,8 +141,8 @@ chart2.selectAll("circle")
     svg2.selectAll("circle")
       .transition()
       .duration(500)
-      .style("opacity", d => d.class === selectedClass ? 1 : 0.4)
-      .attr("r", d => d.class === selectedClass ? 8 : 4);
+      .style("opacity", d => d.class === selectedClass ? 1 : 0)
+
   });
 
 
