@@ -161,13 +161,6 @@ d3.csv("Scene3.csv").then(data => {
       { category: "Selected", value: result.mpg },
       { category: "Avg", value: avg.mpg }
     ]
-  },
-  {
-    label: "Saving ($)",
-    values: [
-      { category: "Selected", value: result.saving },
-      { category: "Avg", value: avg.saving }
-    ]
   }
     ];
 
