@@ -9,6 +9,10 @@
   margin: 0;                 /* 필요시 마진 조정 */
 }
 
+h2 {
+  font-size: 16px;
+}
+
 body {
   font-family: sans-serif;
   margin: 0;
