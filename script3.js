@@ -230,9 +230,9 @@ d3.csv("Scene3.csv").then(data => {
         .attr("fill", v => v.category === "Selected" ? "#ff944d" : "#cccccc")
         .on("mouseover", (event, v) => {
           tooltip3.style("visibility", "visible")
-          .html(`<strong>${d.label}<br>
-          Car Type: ${d.atvType}<br>
-          Car Class: ${d.VClass}<br>
+          .html(`<strong>${v.category}<br>
+          Car Type: ${d.type}<br>
+          Car Class: ${d.class}<br>
           ${d.label}: ${v.value.toFixed(2)}`);
         })
         .on("mousemove", (event) => {
