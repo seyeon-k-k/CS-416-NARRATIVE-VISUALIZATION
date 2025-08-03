@@ -231,7 +231,7 @@ d3.csv("Scene3.csv").then(data => {
         .on("mouseover", (event, v) => {
           tooltip3.style("visibility", "visible")
           .html(`<strong>${v.category}<br>
-          Car Type: ${result.type}<br>
+          Car Type: ${result.type ? result.type : "Gas"}<br>
           Car Class: ${result.class}<br>
           ${d.label}: ${v.value.toFixed(2)}`);
         })
