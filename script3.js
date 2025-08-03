@@ -123,7 +123,7 @@ d3.csv("Scene3.csv").then(data => {
     );
   });
 
-  // 검색 버튼 클릭 시 3개의 별도 차트 생성
+  // 검색 버튼 클릭 시 2개의 별도 차트 생성
   d3.select("#scene3-search-btn").on("click", function () {
     const selectedMake = makeSelect.property("value");
     const selectedYear = +yearSelect.property("value");
@@ -153,7 +153,7 @@ d3.csv("Scene3.csv").then(data => {
 
     if (!result) return; // 결과 없으면 종료
 
-    const barWidth = 350;
+    const barWidth = 500;
     const barHeight = 500;
     const margin = { top: 40, right: 30, bottom: 50, left: 70 };
     const innerWidth = barWidth - margin.left - margin.right;
