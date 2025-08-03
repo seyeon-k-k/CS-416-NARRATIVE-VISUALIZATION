@@ -134,25 +134,48 @@ chart2.selectAll("circle")
       .attr("font-size", "12px")
       .text(type);
   });
+
+  let currentSelectedClass = null;  // 현재 선택된 class 기억
   
   d3.selectAll("#scene2-class-buttons button").on("click", function () {
     const selectedClass = d3.select(this).attr("data-class");
 
-    // 모든 버튼 초기화
+  // 같은 버튼 다시 누르면 초기화
+  if (currentSelectedClass === selectedClass) {
+    currentSelectedClass = null;
+
+    // 버튼 스타일 초기화
     d3.selectAll("#scene2-class-buttons button")
       .style("background-color", "white")
       .style("color", "black");
 
-    // 클릭된 버튼 강조
+    // 모든 점 다시 보이기
+    svg2.selectAll("circle")
+      .transition()
+      .duration(500)
+      .style("opacity", 0.7);  // 기본값
+
+  } else {
+    currentSelectedClass = selectedClass;
+
+    // 버튼 스타일 갱신
+    d3.selectAll("#scene2-class-buttons button")
+      .style("background-color", "white")
+      .style("color", "black");
+
     d3.select(this)
       .style("background-color", "#d3d3d3")
       .style("color", "black");
 
-    // 점(circle) 업데이트: 해당 클래스만 강조
+    // 선택된 class만 강조
     svg2.selectAll("circle")
       .transition()
       .duration(500)
-      .style("opacity", d => d.class === selectedClass ? 1 : 0.1)
+      .style("opacity", d => d.class === selectedClass ? 1 : 0.001);
+  }
+
+
+
 
   });
 
