@@ -100,6 +100,8 @@ chart2.selectAll("circle")
   .on("mouseover", (event, d) => {
     tooltip
       .html(`<strong>${d.make} ${d.model}</strong><br>
+            Car Type: ${d.atvType}<br>
+            Car Class: ${d.VClass}<br>
             MPG or MPGe: ${d.mpg}<br>
             5-Year Fuel Savings: $${d.save}`)
       .style("visibility", "visible");
